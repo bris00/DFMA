@@ -33,9 +33,8 @@ jobs:
         with:
           cache: 'pip'
           python-version: '3.10' 
-      - run: >
-          pip install -r requirements.txt
-          mkdocs build --strict --verbose
+      - run: pip install -r requirements.txt
+      - run: mkdocs build --strict --verbose
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
