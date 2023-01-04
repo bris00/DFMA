@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-01-04.md",
+                "file": "Day/2023-01-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-01-05.md",
+                "file": "Day/2023-01-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01-05.md",
+                "file": "Day/2023-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-01-05.md",
+                "file": "Day/2023-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-01-05.md"
+                "file": "Day/2023-01-04.md"
               }
             }
           },
@@ -191,15 +191,15 @@
   },
   "active": "8bfab6352a670ab0",
   "lastOpenFiles": [
-    "Tasks/Developers Boon.md",
     "2023-01-05.md",
+    "Tasks/Developers Boon.md",
+    "Day/2023-01-05.md",
     "index.md",
-    "2023-01-04.md",
-    "2023-01-03.md",
-    "2023-01-02.md",
+    "Day/2023-01-04.md",
+    "Day/2023-01-03.md",
+    "Day/2023-01-02.md",
     "2023/Jan/@today.md",
     "2023/Jan/02-01-2023.md",
-    "2023/Jan/03-01-2023.md",
-    "Tasks.md"
+    "2023/Jan/03-01-2023.md"
   ]
 }
