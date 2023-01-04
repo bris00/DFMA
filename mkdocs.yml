@@ -1,7 +1,7 @@
 site_name: Bris' Diary for Miss Ana
 site_url: https://bris00.github.io/DFMA
 site_dir: _site
-docs_dir: .
+docs_dir: ./diary
 
 theme:
   name: material
@@ -19,7 +19,7 @@ markdown_extensions:
   - pymdownx.emoji
   - admonition
   - toc:
-    permalink: true
+      permalink: true
 
 plugins:
   - search
