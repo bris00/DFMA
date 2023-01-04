@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Day/2023-01-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Day/2023-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Day/2023-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Day/2023-01-04.md"
               }
             }
           },
@@ -191,9 +191,9 @@
   },
   "active": "8bfab6352a670ab0",
   "lastOpenFiles": [
-    "Tasks.md",
-    "index.md",
     "Tasks/Developers Boon.md",
+    "index.md",
+    "Tasks.md",
     "Day/2023-01-02.md",
     "Day/2023-01-04.md",
     "Day/2023-01-03.md",
