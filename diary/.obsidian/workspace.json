@@ -11,8 +11,12 @@
             "id": "7240e5560fd32736",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023-01-04.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -113,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-01-04.md"
+              }
             }
           },
           {
@@ -170,10 +178,10 @@
   },
   "active": "7240e5560fd32736",
   "lastOpenFiles": [
-    "2023-01-04.md",
     "2023-01-03.md",
-    "2023-01-02.md",
     "Tasks/Developers Boon.md",
+    "2023-01-02.md",
+    "2023-01-04.md",
     "2023/Jan/@today.md",
     "2023/Jan/02-01-2023.md",
     "2023/Jan/03-01-2023.md",
