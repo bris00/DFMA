@@ -1,6 +1,6 @@
 site_name: Bris' Diary for Miss Ana
 site_url: https://bris00.github.io/DFMA
-site_dir: public
+site_dir: _site
 docs_dir: .
 
 theme:
