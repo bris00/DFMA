@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day/2023-01-04.md",
+                "file": "Diary/2023-01-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day/2023-01-04.md",
+                "file": "Diary/2023-01-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Developers Boon.md",
+                "file": "Diary/2023-01-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,8 +142,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Developers Boon.md",
+                "file": "Diary/2023-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Developers Boon.md",
+                "file": "Diary/2023-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Developers Boon.md"
+                "file": "Diary/2023-01-02.md"
               }
             }
           },
@@ -226,13 +225,13 @@
   "active": "51705592a4f84b7c",
   "lastOpenFiles": [
     "index.md",
-    "Tasks/index.md",
-    "Day/index.md",
-    "Day/2023-01-02.md",
-    "Day/2023-01-03.md",
-    "Day/2023-01-04.md",
+    "Diary/2023-01-02.md",
+    "Diary/2023-01-04.md",
+    "Diary/2023-01-03.md",
     "Tasks/Brainwashing.md",
     "Tasks/Developers Boon.md",
+    "Tasks/index.md",
+    "Day/index.md",
     "Tasks/Tasks.md",
     "Day/Day.md"
   ]
