@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/index.md"
+                "file": "index.md"
               }
             }
           },
@@ -224,13 +224,13 @@
   },
   "active": "51705592a4f84b7c",
   "lastOpenFiles": [
+    "Tasks/index.md",
     "Day/index.md",
     "index.md",
     "Day/2023-01-02.md",
     "Day/2023-01-03.md",
     "Day/2023-01-04.md",
     "Tasks/Brainwashing.md",
-    "Tasks/index.md",
     "Tasks/Developers Boon.md",
     "Tasks/Tasks.md",
     "Day/Day.md"
