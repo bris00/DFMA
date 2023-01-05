@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/index.md",
+                "file": "Day/2023-01-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/index.md",
+                "file": "Day/2023-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/index.md",
+                "file": "Day/2023-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/index.md"
+                "file": "Day/2023-01-02.md"
               }
             }
           },
@@ -223,19 +223,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "51705592a4f84b7c",
   "lastOpenFiles": [
-    "Day/index.md",
-    "Day/2023-01-04.md",
-    "Tasks/Developers Boon.md",
-    "Tasks/Brainwashing.md",
     "Day/2023-01-03.md",
+    "Day/2023-01-04.md",
+    "Day/index.md",
+    "Tasks/Brainwashing.md",
+    "Tasks/index.md",
+    "Tasks/Developers Boon.md",
     "Day/2023-01-02.md",
     "index.md",
     "Tasks/Tasks.md",
-    "Day/Day.md",
-    "_Index_of_diary.md"
+    "Day/Day.md"
   ]
 }
