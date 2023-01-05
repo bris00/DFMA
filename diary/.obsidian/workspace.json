@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Confession.md",
+                "file": "Diary/2023-01-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Confession.md",
+                "file": "Diary/2023-01-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Confession.md",
+                "file": "Diary/2023-01-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Confession.md"
+                "file": "Diary/2023-01-05.md"
               }
             }
           },
@@ -248,8 +248,8 @@
   },
   "active": "f5a7fc43a949eeb2",
   "lastOpenFiles": [
-    "Tasks/Brainwashing.md",
     "Tasks/Confession.md",
+    "Tasks/Brainwashing.md",
     "Diary/2023-01-05.md",
     "Diary/2023-01-04.md",
     "Diary/2023-01-02.md",
