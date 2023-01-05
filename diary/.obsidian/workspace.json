@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "482f2ee862a870f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "459a217a9b4db6b0",
             "type": "leaf",
             "state": {
@@ -96,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-01-02.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-01-02.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-01-02.md"
+                "file": "index.md"
               }
             }
           },
@@ -222,17 +234,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "51705592a4f84b7c",
+  "active": "482f2ee862a870f0",
   "lastOpenFiles": [
-    "index.md",
-    "Diary/2023-01-02.md",
-    "Diary/2023-01-04.md",
-    "Diary/2023-01-03.md",
-    "Tasks/Brainwashing.md",
     "Tasks/Developers Boon.md",
+    "Tasks/Brainwashing.md",
+    "Diary/2023-01-04.md",
+    "Diary/2023-01-02.md",
+    "Diary/2023-01-03.md",
+    "index.md",
+    "Tags.md",
     "Tasks/index.md",
     "Day/index.md",
-    "Tasks/Tasks.md",
-    "Day/Day.md"
+    "Tasks/Tasks.md"
   ]
 }
