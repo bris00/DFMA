@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Brainwashing.md",
+                "file": "Day/2023-01-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Brainwashing.md",
+                "file": "Day/2023-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Brainwashing.md",
+                "file": "Day/2023-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Brainwashing.md"
+                "file": "Day/2023-01-04.md"
               }
             }
           },
@@ -215,9 +215,9 @@
   },
   "active": "074ba6837f8a0712",
   "lastOpenFiles": [
+    "Tasks/Brainwashing.md",
     "Tasks/Developers Boon.md",
     "Day/2023-01-04.md",
-    "Tasks/Brainwashing.md",
     "Day/index.md",
     "Day/2023-01-03.md",
     "Day/2023-01-02.md",
