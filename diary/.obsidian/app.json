@@ -2,5 +2,8 @@
   "newFileLocation": "root",
   "newFileFolderPath": "Day",
   "spellcheck": true,
-  "vimMode": true
+  "vimMode": false,
+  "spellcheckDictionary": [
+    "lockees"
+  ]
 }

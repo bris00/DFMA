@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "51705592a4f84b7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "459a217a9b4db6b0",
             "type": "leaf",
             "state": {
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -117,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#day",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day/index.md",
+                "file": "Tasks/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day/index.md",
+                "file": "Tasks/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day/index.md"
+                "file": "Tasks/index.md"
               }
             }
           },
@@ -213,17 +225,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "074ba6837f8a0712",
+  "active": "51705592a4f84b7c",
   "lastOpenFiles": [
+    "Day/index.md",
     "Day/2023-01-04.md",
+    "Tasks/Developers Boon.md",
+    "Tasks/Brainwashing.md",
     "Day/2023-01-03.md",
     "Day/2023-01-02.md",
-    "Day/index.md",
+    "index.md",
     "Tasks/Tasks.md",
     "Day/Day.md",
-    "index.md",
-    "Tasks/Brainwashing.md",
-    "_Index_of_diary.md",
-    "Tasks/Developers Boon.md"
+    "_Index_of_diary.md"
   ]
 }
