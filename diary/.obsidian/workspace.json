@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day/2023-01-04.md",
+                "file": "Day/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day/2023-01-04.md",
+                "file": "Day/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day/2023-01-04.md"
+                "file": "Day/index.md"
               }
             }
           },
@@ -213,7 +213,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "85d9d92bc0542f9b",
+  "active": "074ba6837f8a0712",
   "lastOpenFiles": [
     "Day/2023-01-04.md",
     "Day/2023-01-03.md",
