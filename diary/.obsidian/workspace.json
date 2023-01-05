@@ -69,7 +69,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2023-01-05.md",
+                "file": "Tasks/Brainwashing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5a7fc43a949eeb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Confession.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-01-05.md",
+                "file": "Tasks/Confession.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-01-05.md",
+                "file": "Tasks/Confession.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-01-05.md"
+                "file": "Tasks/Confession.md"
               }
             }
           },
@@ -234,17 +246,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "482f2ee862a870f0",
+  "active": "f5a7fc43a949eeb2",
   "lastOpenFiles": [
+    "Tasks/Brainwashing.md",
+    "Tasks/Confession.md",
+    "Diary/2023-01-05.md",
     "Diary/2023-01-04.md",
     "Diary/2023-01-02.md",
     "Diary/2023-01-03.md",
-    "Diary/2023-01-05.md",
     "Tags.md",
-    "Tasks/Brainwashing.md",
     "Tasks/Developers Boon.md",
     "index.md",
-    "Tasks/index.md",
-    "Day/index.md"
+    "Tasks/index.md"
   ]
 }
