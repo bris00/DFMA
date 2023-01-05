@@ -25,7 +25,8 @@ markdown_extensions:
 
 plugins:
   - search
-  - tags
+  - tags:
+      tags_file: Tags.md
   - embed_file
   - roamlinks
 
