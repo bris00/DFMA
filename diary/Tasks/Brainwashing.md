@@ -1,10 +1,11 @@
-# Brainwashing
 ---
 tags:
   - task
   - hypno
   - brainwashing
 ---
+
+# Brainwashing
 
 From: [[2023-01-04]]
 
