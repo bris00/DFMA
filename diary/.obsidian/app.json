@@ -1,4 +1,6 @@
 {
   "newFileLocation": "root",
-  "newFileFolderPath": "Day"
+  "newFileFolderPath": "Day",
+  "spellcheck": true,
+  "vimMode": true
 }
