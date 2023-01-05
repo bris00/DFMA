@@ -5,6 +5,8 @@ docs_dir: ./diary
 
 theme:
   name: material
+  features:
+    - navigation.sections
   palette:
     scheme: slate
 
