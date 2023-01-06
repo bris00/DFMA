@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2023-01-05.md",
+                "file": "Diary/2023-01-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-01-05.md",
+                "file": "Diary/2023-01-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-01-05.md",
+                "file": "Diary/2023-01-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-01-05.md"
+                "file": "Diary/2023-01-06.md"
               }
             }
           },
@@ -248,15 +248,15 @@
   },
   "active": "f5a7fc43a949eeb2",
   "lastOpenFiles": [
+    "Diary/2023-01-05.md",
+    "Diary/2023-01-06.md",
     "Tasks/Confession.md",
     "Tasks/Brainwashing.md",
-    "Diary/2023-01-05.md",
     "Diary/2023-01-04.md",
     "Diary/2023-01-02.md",
     "Diary/2023-01-03.md",
     "Tags.md",
     "Tasks/Developers Boon.md",
-    "index.md",
-    "Tasks/index.md"
+    "index.md"
   ]
 }
