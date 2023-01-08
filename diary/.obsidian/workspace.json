@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shopping list.md",
+                "file": "Diary/2023-01-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shopping list.md",
+                "file": "Diary/2023-01-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shopping list.md",
+                "file": "Diary/2023-01-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shopping list.md"
+                "file": "Diary/2023-01-08.md"
               }
             }
           },
@@ -272,15 +272,15 @@
   },
   "active": "710067f81945119a",
   "lastOpenFiles": [
-    "Diary/2023-01-06.md",
-    "Shopping list.md",
-    "Task ideas.md",
-    "Diary/2023-01-07.md",
     "Tasks/Brainwashing.md",
+    "Diary/2023-01-06.md",
+    "Diary/2023-01-07.md",
+    "Diary/2023-01-08.md",
+    "Task ideas.md",
+    "Shopping list.md",
     "Tasks/Confession.md",
     "Tasks/Developers Boon.md",
     "Diary/2023-01-05.md",
-    "Diary/2023-01-04.md",
-    "Diary/2023-01-02.md"
+    "Diary/2023-01-04.md"
   ]
 }
