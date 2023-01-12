@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2023-01-11.md",
+                "file": "Diary/2023-01-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-01-11.md",
+                "file": "Diary/2023-01-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-01-11.md",
+                "file": "Diary/2023-01-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-01-11.md"
+                "file": "Diary/2023-01-12.md"
               }
             }
           },
@@ -284,15 +284,15 @@
   },
   "active": "a085b80ef6d2dd31",
   "lastOpenFiles": [
+    "Diary/2023-01-09.md",
+    "Diary/2023-01-10.md",
+    "Diary/2023-01-12.md",
+    "Diary/2023-01-08.md",
+    "Diary/2023-01-11.md",
     "Tasks/Frustrated Hero.md",
     "Tasks/Brainwashing.md",
     "Tasks/Developers Boon.md",
-    "Diary/2023-01-08.md",
-    "Diary/2023-01-09.md",
-    "Diary/2023-01-11.md",
     "Task ideas.md",
-    "Tags.md",
-    "Diary/2023-01-04.md",
-    "Diary/2023-01-05.md"
+    "Tags.md"
   ]
 }
