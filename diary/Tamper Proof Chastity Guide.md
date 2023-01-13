@@ -34,7 +34,7 @@ Now pull the ribbon through the holes in the cage.
 	<img src="https://cdn.discordapp.com/attachments/1063569874993037424/1063596191008424007/PXL_20230113_195159956.jpg" />
 </details>
 
-Then tie the ribbon off around the penis, this may be difficult to do right without a cage with horizontal bars. Make sure the ribbon is tied somewhat tight, but not so tight as to cause discomfort when wearing. The purpose of tying it tight is so that it won't be possible to open the knot and retie the ribbon again. 
+Then tie the ribbon off around the penis securly, I'm just using a double knot, this may be difficult to do right without a cage with horizontal bars. Make sure the ribbon is tied somewhat tight, but not so tight as to cause discomfort when wearing. The purpose of tying it tight is so that it won't be possible to open the knot and retie the ribbon again. 
 
 <details>
 	<summary>Image (NSFW)</summary>

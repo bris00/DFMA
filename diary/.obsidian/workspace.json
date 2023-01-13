@@ -127,8 +127,12 @@
             "id": "4d41c7e7621b23a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tamper Proof Chastity Guide.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -230,6 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tamper Proof Chastity Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,6 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tamper Proof Chastity Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +273,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tamper Proof Chastity Guide.md"
+              }
             }
           },
           {
@@ -286,10 +294,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "43268a854084f453",
+  "active": "4d41c7e7621b23a5",
   "lastOpenFiles": [
-    "Tamper Proof Chastity Guide.md",
     "Tags.md",
+    "Tamper Proof Chastity Guide.md",
     "Diary/2023-01-13.md",
     "Diary/2023-01-12.md",
     "Diary/2023-01-09.md",
