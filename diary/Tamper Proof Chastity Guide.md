@@ -64,4 +64,4 @@ And after they unlock, the setup needs to be verified so that the ribbon is inst
 
 ## Potential problems
 
-* Natural wear and tear causing the ribbon to be ruined, or more likely the hole in the ribbon to fail.
+* Natural wear and tear, causing the ribbon to be ruined, or more likely the hole in the ribbon to fail.
