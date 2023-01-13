@@ -61,3 +61,7 @@ The setup needs to be verified at least two times per unlock. Once before unlock
 * The ribbon is fully around the penis, not squished in front or wherever it's tied to the cage.
 
 And after they unlock, the setup needs to be verified so that the ribbon is installed correctly and in a way where the lockee cannot reinsert into the ribbon.
+
+## Potential problems
+
+* Natural wear and tear causing the ribbon to be ruined, or more likely the hole in the ribbon to fail.
