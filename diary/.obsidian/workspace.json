@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2023-01-15.md",
+                "file": "Diary/2023-01-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-01-15.md",
+                "file": "Diary/2023-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-01-15.md",
+                "file": "Diary/2023-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-01-15.md"
+                "file": "Diary/2023-01-14.md"
               }
             }
           },
@@ -294,10 +294,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d41c7e7621b23a5",
+  "active": "43268a854084f453",
   "lastOpenFiles": [
     "Diary/2023-01-13.md",
-    "Diary/2023-01-15.md",
+    "Diary/2023-01-14.md",
     "Diary/2023-01-04.md",
     "Tamper Proof Chastity Guide.md",
     "Tags.md",
