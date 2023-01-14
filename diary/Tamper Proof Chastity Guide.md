@@ -18,7 +18,7 @@ The idea of the tamperproof chastity is to make it so that there is no way to pu
 
 ## Assembly
 
-Cut a piece of the ribbon to size, bunch up the ribbon a bit and wrap another piece around a couple of times. This will make the hole sturdier so that it hopefully won't accidentally tear. Use the hole punch to create a hole in the ribbon to tread a plastic one-time-lock through. The purpose of this is to be aale to verify that the lockee has not swapped the entire ribbon whilst caged.
+Cut a piece of the ribbon to size, bunch up the ribbon a bit and wrap another piece around a couple of times. This will make the hole sturdier so that it hopefully won't accidentally tear. Use the hole punch to create a hole in the ribbon to tread a plastic one-time-lock through. The purpose of this is to be able to verify that the lockee has not swapped the entire ribbon whilst caged.
 
 <details>
 	<summary>Images</summary>
