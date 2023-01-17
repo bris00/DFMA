@@ -7,7 +7,7 @@ tags:
   - unlock
 ---
 
-# Frustrated hero
+# Hands Free Training
 
 From: [[2023-01-17]]
 
