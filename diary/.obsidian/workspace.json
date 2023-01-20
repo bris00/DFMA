@@ -148,6 +148,18 @@
             }
           },
           {
+            "id": "9f57a3890e5b9d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/The Sandman/s01e01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "459a217a9b4db6b0",
             "type": "leaf",
             "state": {
@@ -180,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -246,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Hands Free Training.md",
+                "file": "Series/The Sandman/s01e01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Hands Free Training.md",
+                "file": "Series/The Sandman/s01e01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Hands Free Training.md"
+                "file": "Series/The Sandman/s01e01.md"
               }
             }
           },
@@ -306,11 +318,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fdaab8c69941b9ae",
+  "active": "9f57a3890e5b9d55",
   "lastOpenFiles": [
+    "Tasks/Hands Free Training.md",
     "Diary/2023-01-17.md",
     "Diary/2023-01-16.md",
-    "Tasks/Hands Free Training.md",
     "Tasks/Frustrated Hero.md",
     "Task ideas.md",
     "Diary/2023-01-15.md",
