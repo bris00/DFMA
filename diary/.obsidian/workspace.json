@@ -189,7 +189,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2023-01-20.md",
+                "file": "Diary/2023-01-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-01-20.md",
+                "file": "Diary/2023-01-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-01-20.md",
+                "file": "Diary/2023-01-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-01-20.md"
+                "file": "Diary/2023-01-18.md"
               }
             }
           },
@@ -324,9 +324,9 @@
   },
   "active": "89cb9eff19f7bd79",
   "lastOpenFiles": [
+    "Diary/2023-01-19.md",
     "Diary/2023-01-20.md",
     "Diary/2023-01-21.md",
-    "Diary/2023-01-19.md",
     "Diary/2023-01-18.md",
     "Diary/2023-01-17.md",
     "Series/The Sandman/s01e01.md",
