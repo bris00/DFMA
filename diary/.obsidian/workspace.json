@@ -187,12 +187,16 @@
             "id": "89cb9eff19f7bd79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2023-01-20.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -318,10 +322,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9f57a3890e5b9d55",
+  "active": "89cb9eff19f7bd79",
   "lastOpenFiles": [
-    "Diary/2023-01-21.md",
     "Diary/2023-01-20.md",
+    "Diary/2023-01-21.md",
     "Diary/2023-01-19.md",
     "Diary/2023-01-18.md",
     "Diary/2023-01-17.md",
