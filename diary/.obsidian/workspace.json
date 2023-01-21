@@ -189,14 +189,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2023-01-18.md",
+                "file": "Series/The Sandman/s01e01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ddb204d67302355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/The Sandman/s01e02.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -262,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-01-18.md",
+                "file": "Series/The Sandman/s01e02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-01-18.md",
+                "file": "Series/The Sandman/s01e02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-01-18.md"
+                "file": "Series/The Sandman/s01e02.md"
               }
             }
           },
@@ -322,14 +334,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89cb9eff19f7bd79",
+  "active": "2ddb204d67302355",
   "lastOpenFiles": [
+    "Series/The Sandman/s01e01.md",
+    "Diary/2023-01-18.md",
     "Diary/2023-01-19.md",
     "Diary/2023-01-20.md",
     "Diary/2023-01-21.md",
-    "Diary/2023-01-18.md",
     "Diary/2023-01-17.md",
-    "Series/The Sandman/s01e01.md",
     "Tasks/Hands Free Training.md",
     "Diary/2023-01-16.md",
     "Tasks/Frustrated Hero.md",
