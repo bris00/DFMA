@@ -201,14 +201,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2023-01-21.md",
+                "file": "Series/The Sandman/s01e02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9b2c9c3708fa763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/The Sandman/s01e03-6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -274,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-01-21.md",
+                "file": "Series/The Sandman/s01e03-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-01-21.md",
+                "file": "Series/The Sandman/s01e03-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-01-21.md"
+                "file": "Series/The Sandman/s01e03-6.md"
               }
             }
           },
@@ -334,11 +346,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2ddb204d67302355",
+  "active": "f9b2c9c3708fa763",
   "lastOpenFiles": [
-    "Diary/2023-01-20.md",
-    "Diary/2023-01-21.md",
     "Series/The Sandman/s01e02.md",
+    "Diary/2023-01-21.md",
+    "Diary/2023-01-20.md",
     "Series/The Sandman/s01e01.md",
     "Diary/2023-01-18.md",
     "Diary/2023-01-19.md",
