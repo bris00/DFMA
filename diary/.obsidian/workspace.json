@@ -218,9 +218,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7363a102f70b4a73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/The Sandman/s01e07-8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -286,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/The Sandman/s01e03-6.md",
+                "file": "Series/The Sandman/s01e07-8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/The Sandman/s01e03-6.md",
+                "file": "Series/The Sandman/s01e07-8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/The Sandman/s01e03-6.md"
+                "file": "Series/The Sandman/s01e07-8.md"
               }
             }
           },
@@ -346,8 +358,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9b2c9c3708fa763",
+  "active": "7363a102f70b4a73",
   "lastOpenFiles": [
+    "Series/The Sandman/s01e03-6.md",
     "Series/The Sandman/s01e02.md",
     "Diary/2023-01-21.md",
     "Diary/2023-01-20.md",
@@ -356,7 +369,6 @@
     "Diary/2023-01-19.md",
     "Diary/2023-01-17.md",
     "Tasks/Hands Free Training.md",
-    "Diary/2023-01-16.md",
-    "Tasks/Frustrated Hero.md"
+    "Diary/2023-01-16.md"
   ]
 }
