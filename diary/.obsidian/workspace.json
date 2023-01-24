@@ -237,14 +237,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2023-01-23.md",
+                "file": "Series/The Sandman/s01e07-8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44006b976fa6c1d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/The Sandman/s01e09.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -310,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-01-23.md",
+                "file": "Series/The Sandman/s01e09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-01-23.md",
+                "file": "Series/The Sandman/s01e09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -350,7 +362,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-01-23.md"
+                "file": "Series/The Sandman/s01e09.md"
               }
             }
           },
@@ -370,17 +382,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c493715b0c5518e4",
+  "active": "44006b976fa6c1d8",
   "lastOpenFiles": [
+    "Series/The Sandman/s01e07-8.md",
+    "Series/The Sandman/s01e09.md",
+    "Diary/2023-01-23.md",
     "Diary/2023-01-22.md",
     "Diary/2023-01-21.md",
-    "Diary/2023-01-23.md",
-    "Series/The Sandman/s01e07-8.md",
     "Series/The Sandman/s01e03-6.md",
     "Series/The Sandman/s01e02.md",
     "Diary/2023-01-20.md",
     "Series/The Sandman/s01e01.md",
-    "Diary/2023-01-18.md",
-    "Diary/2023-01-19.md"
+    "Diary/2023-01-18.md"
   ]
 }
