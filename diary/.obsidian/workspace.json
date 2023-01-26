@@ -266,9 +266,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c53588a9ba82d6c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/The Sandman/s01e11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -334,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/The Sandman/s01e10.md",
+                "file": "Series/The Sandman/s01e11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +363,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/The Sandman/s01e10.md",
+                "file": "Series/The Sandman/s01e11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -374,7 +386,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/The Sandman/s01e10.md"
+                "file": "Series/The Sandman/s01e11.md"
               }
             }
           },
@@ -394,10 +406,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ffdfc1bcea6e2ebf",
+  "active": "c53588a9ba82d6c9",
   "lastOpenFiles": [
-    "Series/The Sandman/s01e09.md",
     "Series/The Sandman/s01e10.md",
+    "Series/The Sandman/s01e09.md",
     "Series/The Sandman/s01e07-8.md",
     "Diary/2023-01-23.md",
     "Diary/2023-01-22.md",
