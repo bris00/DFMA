@@ -338,9 +338,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d65df2c018da1696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s01e07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -406,7 +418,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s01e06.md",
+                "file": "Series/My Hero Academia/s01e07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -423,7 +435,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s01e06.md",
+                "file": "Series/My Hero Academia/s01e07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -446,7 +458,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s01e06.md"
+                "file": "Series/My Hero Academia/s01e07.md"
               }
             }
           },
@@ -476,17 +488,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29b05e0a2a810e9a",
+  "active": "d65df2c018da1696",
   "lastOpenFiles": [
-    "Series/My Hero Academia/s01e05.md",
     "Series/My Hero Academia/s01e06.md",
+    "Series/My Hero Academia/s01e07.md",
+    "Series/My Hero Academia/s01e05.md",
     "Series/My Hero Academia/s01e03-04.md",
     "Series/My Hero Academia/s01e01-02.md",
     "Series/Tidying Up With Marie Kondo/s01e01.md",
     "Series/The Sandman/s01e11.md",
     "Series/The Sandman/s01e10.md",
     "Series/The Sandman/s01e09.md",
-    "Series/The Sandman/s01e07-8.md",
-    "Diary/2023-01-23.md"
+    "Series/The Sandman/s01e07-8.md"
   ]
 }
