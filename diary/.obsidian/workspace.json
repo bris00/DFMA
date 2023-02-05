@@ -386,9 +386,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00dc02c59dacdc9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s02e14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 32
+        "currentTab": 33
       }
     ],
     "direction": "vertical"
@@ -454,7 +466,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s01e11-s02e13.5.md",
+                "file": "Series/My Hero Academia/s02e14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -471,7 +483,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s01e11-s02e13.5.md",
+                "file": "Series/My Hero Academia/s02e14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -494,7 +506,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s01e11-s02e13.5.md"
+                "file": "Series/My Hero Academia/s02e14.md"
               }
             }
           },
@@ -524,17 +536,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be874f41f936b77a",
+  "active": "00dc02c59dacdc9a",
   "lastOpenFiles": [
-    "Series/My Hero Academia/s01e10.md",
+    "Series/My Hero Academia/s01e03-04.md",
+    "Series/My Hero Academia/s02e14.md",
     "Series/My Hero Academia/s01e11-s02e13.5.md",
+    "Series/My Hero Academia/s01e10.md",
     "Series/My Hero Academia/s01e08-09.md",
     "Series/My Hero Academia/s01e07.md",
     "Series/My Hero Academia/s01e06.md",
     "Series/My Hero Academia/s01e05.md",
-    "Series/My Hero Academia/s01e03-04.md",
     "Series/My Hero Academia/s01e01-02.md",
-    "Series/Tidying Up With Marie Kondo/s01e01.md",
-    "Series/The Sandman/s01e11.md"
+    "Series/Tidying Up With Marie Kondo/s01e01.md"
   ]
 }
