@@ -405,14 +405,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions.md",
+                "file": "Series/My Hero Academia/s02e14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29fb7d7a9fab3ec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s02e15.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 34
+        "currentTab": 35
       }
     ],
     "direction": "vertical"
@@ -441,7 +453,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Counts",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -458,8 +470,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -479,7 +490,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions.md",
+                "file": "Series/My Hero Academia/s02e15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -496,7 +507,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions.md",
+                "file": "Series/My Hero Academia/s02e15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -519,7 +530,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions.md"
+                "file": "Series/My Hero Academia/s02e15.md"
               }
             }
           },
@@ -549,17 +560,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91616283f0d3a746",
+  "active": "29fb7d7a9fab3ec0",
   "lastOpenFiles": [
+    "Series/My Hero Academia/s01e08-09.md",
+    "Series/My Hero Academia/s01e10.md",
+    "Series/My Hero Academia/s01e11-s02e13.5.md",
+    "Series/My Hero Academia/s02e14.md",
+    "Series/My Hero Academia/s02e15.md",
+    "Questions.md",
     "Shopping list.md",
     "Task ideas.md",
-    "Series/My Hero Academia/s02e14.md",
     "Series/My Hero Academia/s01e03-04.md",
-    "Series/My Hero Academia/s01e11-s02e13.5.md",
-    "Series/My Hero Academia/s01e10.md",
-    "Series/My Hero Academia/s01e08-09.md",
-    "Series/My Hero Academia/s01e07.md",
-    "Series/My Hero Academia/s01e06.md",
-    "Series/My Hero Academia/s01e05.md"
+    "Series/My Hero Academia/s01e07.md"
   ]
 }
