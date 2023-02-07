@@ -429,14 +429,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chaster custom extension ideas.md",
+                "file": "Series/My Hero Academia/s02e15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "680748ad4aa31b35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s02e16-17.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 36
+        "currentTab": 37
       }
     ],
     "direction": "vertical"
@@ -502,7 +514,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chaster custom extension ideas.md",
+                "file": "Series/My Hero Academia/s02e16-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -519,7 +531,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chaster custom extension ideas.md",
+                "file": "Series/My Hero Academia/s02e16-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -542,7 +554,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chaster custom extension ideas.md"
+                "file": "Series/My Hero Academia/s02e16-17.md"
               }
             }
           },
@@ -572,17 +584,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8cad079bca5ac66",
+  "active": "680748ad4aa31b35",
   "lastOpenFiles": [
-    "Task ideas.md",
-    "Questions.md",
     "Series/My Hero Academia/s02e15.md",
+    "Series/My Hero Academia/s02e16-17.md",
+    "Questions.md",
+    "Chaster custom extension ideas.md",
+    "Task ideas.md",
     "Series/My Hero Academia/s01e08-09.md",
     "Series/My Hero Academia/s01e10.md",
     "Series/My Hero Academia/s01e11-s02e13.5.md",
     "Series/My Hero Academia/s02e14.md",
-    "Shopping list.md",
-    "Series/My Hero Academia/s01e03-04.md",
-    "Series/My Hero Academia/s01e07.md"
+    "Shopping list.md"
   ]
 }
