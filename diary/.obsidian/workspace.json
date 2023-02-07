@@ -417,14 +417,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions.md",
+                "file": "Task ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8cad079bca5ac66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chaster custom extension ideas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 35
+        "currentTab": 36
       }
     ],
     "direction": "vertical"
@@ -490,7 +502,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions.md",
+                "file": "Chaster custom extension ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -507,7 +519,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions.md",
+                "file": "Chaster custom extension ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -530,7 +542,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions.md"
+                "file": "Chaster custom extension ideas.md"
               }
             }
           },
@@ -560,16 +572,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29fb7d7a9fab3ec0",
+  "active": "e8cad079bca5ac66",
   "lastOpenFiles": [
+    "Task ideas.md",
+    "Questions.md",
     "Series/My Hero Academia/s02e15.md",
     "Series/My Hero Academia/s01e08-09.md",
     "Series/My Hero Academia/s01e10.md",
     "Series/My Hero Academia/s01e11-s02e13.5.md",
     "Series/My Hero Academia/s02e14.md",
-    "Questions.md",
     "Shopping list.md",
-    "Task ideas.md",
     "Series/My Hero Academia/s01e03-04.md",
     "Series/My Hero Academia/s01e07.md"
   ]

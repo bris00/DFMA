@@ -1,0 +1,1 @@
+* Stacking freezes / unfreezes (Miss Nami)
