@@ -482,9 +482,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "418a34c36227cfdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s02e18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 40
+        "currentTab": 41
       }
     ],
     "direction": "vertical"
@@ -550,7 +562,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fitness Reports/2023 - week 04.md",
+                "file": "Series/My Hero Academia/s02e18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -567,7 +579,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fitness Reports/2023 - week 04.md",
+                "file": "Series/My Hero Academia/s02e18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -590,7 +602,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fitness Reports/2023 - week 04.md"
+                "file": "Series/My Hero Academia/s02e18.md"
               }
             }
           },
@@ -620,17 +632,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6eea6c793b02f0f0",
+  "active": "418a34c36227cfdb",
   "lastOpenFiles": [
+    "Series/My Hero Academia/s02e16-17.md",
+    "Series/My Hero Academia/s02e18.md",
+    "Fitness Reports/2023 - week 04.md",
     "Fitness Reports/2023 - week 05.md",
     "Fitness Reports/2023 - week 06.md",
-    "Fitness Reports/2023 - week 04.md",
     "Tamper Proof Chastity Guide.md",
     "index.md",
     "Chaster custom extension ideas.md",
-    "Series/My Hero Academia/s02e16-17.md",
     "Series/My Hero Academia/s02e15.md",
-    "Questions.md",
-    "Task ideas.md"
+    "Questions.md"
   ]
 }
