@@ -506,9 +506,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "675b73b9eaf8e4ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s02e21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 42
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -574,7 +586,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions.md",
+                "file": "Series/My Hero Academia/s02e21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -591,7 +603,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions.md",
+                "file": "Series/My Hero Academia/s02e21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -614,7 +626,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions.md"
+                "file": "Series/My Hero Academia/s02e21.md"
               }
             }
           },
@@ -644,17 +656,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2918f7bec540507c",
+  "active": "675b73b9eaf8e4ef",
   "lastOpenFiles": [
-    "Series/My Hero Academia/s02e19-20.md",
     "Series/My Hero Academia/s02e18.md",
+    "Series/My Hero Academia/s02e19-20.md",
+    "Series/My Hero Academia/s02e21.md",
     "Questions.md",
     "Series/My Hero Academia/s02e16-17.md",
     "Fitness Reports/2023 - week 04.md",
     "Fitness Reports/2023 - week 05.md",
     "Fitness Reports/2023 - week 06.md",
     "Tamper Proof Chastity Guide.md",
-    "index.md",
-    "Chaster custom extension ideas.md"
+    "index.md"
   ]
 }
