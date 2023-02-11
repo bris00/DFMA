@@ -13,3 +13,4 @@
 * What is your preferred manscaping look? (One or more pictures speak 1000 words 😊)
 * What does your, potentially hypothetical, bucket list contain?
 * What is something sexual you've always wanted to try but haven't had the opportunity to try yet?
+* What is the dirtiest fantasy you've had about someone close to you (e.g. a friend), but with whom you've not been intimately or romantically involved.
