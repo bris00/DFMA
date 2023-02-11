@@ -513,7 +513,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Series/My Hero Academia/s02e21.md",
+                "file": "Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -586,7 +586,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s02e21.md",
+                "file": "Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -603,7 +603,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s02e21.md",
+                "file": "Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -626,7 +626,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s02e21.md"
+                "file": "Questions.md"
               }
             }
           },
@@ -658,9 +658,9 @@
   },
   "active": "675b73b9eaf8e4ef",
   "lastOpenFiles": [
+    "Series/My Hero Academia/s02e21.md",
     "Series/My Hero Academia/s02e18.md",
     "Series/My Hero Academia/s02e19-20.md",
-    "Series/My Hero Academia/s02e21.md",
     "Questions.md",
     "Series/My Hero Academia/s02e16-17.md",
     "Fitness Reports/2023 - week 04.md",
