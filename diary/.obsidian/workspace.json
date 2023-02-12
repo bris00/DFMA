@@ -537,14 +537,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slaps.md",
+                "file": "Series/My Hero Academia/s02e22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71645bad87f49052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s02e23-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 45
+        "currentTab": 46
       }
     ],
     "direction": "vertical"
@@ -610,7 +622,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slaps.md",
+                "file": "Series/My Hero Academia/s02e23-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -627,7 +639,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slaps.md",
+                "file": "Series/My Hero Academia/s02e23-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -650,7 +662,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slaps.md"
+                "file": "Series/My Hero Academia/s02e23-24.md"
               }
             }
           },
@@ -680,17 +692,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c183df0c6211a33e",
+  "active": "71645bad87f49052",
   "lastOpenFiles": [
     "Series/My Hero Academia/s02e22.md",
+    "Series/My Hero Academia/s02e23-24.md",
+    "Fitness Reports/2023 - week 06.md",
+    "Fitness Reports/2023 - week 05.md",
+    "Slaps.md",
     "Series/My Hero Academia/s02e19-20.md",
     "Series/My Hero Academia/s02e21.md",
     "Questions.md",
     "Series/My Hero Academia/s02e18.md",
-    "Series/My Hero Academia/s02e16-17.md",
-    "Fitness Reports/2023 - week 04.md",
-    "Fitness Reports/2023 - week 05.md",
-    "Fitness Reports/2023 - week 06.md",
-    "Tamper Proof Chastity Guide.md"
+    "Series/My Hero Academia/s02e16-17.md"
   ]
 }
