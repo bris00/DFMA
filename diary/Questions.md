@@ -1,6 +1,6 @@
 ### Counts
 * Miss Ana asks me: 10
-* I ask Miss Ana: 10
+* I ask Miss Ana: 11
 
 ### My questions:
 
@@ -14,3 +14,4 @@
 * What does your, potentially hypothetical, bucket list contain?
 * What is something sexual you've always wanted to try but haven't had the opportunity to try yet?
 * What is the dirtiest fantasy you've had about someone close to you (e.g. a friend), but with whom you've not been intimately or romantically involved.
+* How does your favourite pleasure-giving sex toy compare to other toys you have.
