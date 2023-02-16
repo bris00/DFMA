@@ -597,14 +597,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions.md",
+                "file": "Series/My Hero Academia/s02e27-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d0ea32a6699a2a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s02e29.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 50
+        "currentTab": 51
       }
     ],
     "direction": "vertical"
@@ -633,7 +645,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "edge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -670,7 +682,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions.md",
+                "file": "Series/My Hero Academia/s02e29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -687,7 +699,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions.md",
+                "file": "Series/My Hero Academia/s02e29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -710,7 +722,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions.md"
+                "file": "Series/My Hero Academia/s02e29.md"
               }
             }
           },
@@ -740,13 +752,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b12a6148b17070f",
+  "active": "4d0ea32a6699a2a7",
   "lastOpenFiles": [
-    "Fitness Reports/2023 - week 07.md",
-    "Fitness Reports/2023 - week 06.md",
-    "Questions.md",
     "Series/My Hero Academia/s02e27-28.md",
     "Series/My Hero Academia/s02e26.md",
+    "Questions.md",
+    "Fitness Reports/2023 - week 07.md",
+    "Fitness Reports/2023 - week 06.md",
     "Untitled.canvas",
     "Series/My Hero Academia/s02e25.md",
     "Series/My Hero Academia/s02e22.md",
