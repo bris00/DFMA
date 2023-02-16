@@ -609,7 +609,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Series/My Hero Academia/s02e29.md",
+                "file": "Slaps.md",
                 "mode": "source",
                 "source": false
               }
@@ -682,7 +682,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s02e29.md",
+                "file": "Slaps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -699,7 +699,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s02e29.md",
+                "file": "Slaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -722,7 +722,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s02e29.md"
+                "file": "Slaps.md"
               }
             }
           },
@@ -754,6 +754,7 @@
   },
   "active": "4d0ea32a6699a2a7",
   "lastOpenFiles": [
+    "Series/My Hero Academia/s02e29.md",
     "Series/My Hero Academia/s02e27-28.md",
     "Series/My Hero Academia/s02e26.md",
     "Questions.md",
@@ -762,7 +763,6 @@
     "Untitled.canvas",
     "Series/My Hero Academia/s02e25.md",
     "Series/My Hero Academia/s02e22.md",
-    "Series/My Hero Academia/s02e23-24.md",
-    "Fitness Reports/2023 - week 05.md"
+    "Series/My Hero Academia/s02e23-24.md"
   ]
 }
