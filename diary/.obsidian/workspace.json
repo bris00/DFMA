@@ -609,7 +609,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slaps.md",
+                "file": "Fitness Reports/2023 - week 07.md",
                 "mode": "source",
                 "source": false
               }
@@ -682,7 +682,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slaps.md",
+                "file": "Fitness Reports/2023 - week 07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -699,7 +699,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slaps.md",
+                "file": "Fitness Reports/2023 - week 07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -722,7 +722,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slaps.md"
+                "file": "Fitness Reports/2023 - week 07.md"
               }
             }
           },
@@ -754,15 +754,15 @@
   },
   "active": "4d0ea32a6699a2a7",
   "lastOpenFiles": [
+    "Questions.md",
+    "Slaps.md",
     "Series/My Hero Academia/s02e29.md",
     "Series/My Hero Academia/s02e27-28.md",
     "Series/My Hero Academia/s02e26.md",
-    "Questions.md",
     "Fitness Reports/2023 - week 07.md",
     "Fitness Reports/2023 - week 06.md",
     "Untitled.canvas",
     "Series/My Hero Academia/s02e25.md",
-    "Series/My Hero Academia/s02e22.md",
-    "Series/My Hero Academia/s02e23-24.md"
+    "Series/My Hero Academia/s02e22.md"
   ]
 }
