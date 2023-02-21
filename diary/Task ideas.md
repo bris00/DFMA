@@ -3,6 +3,18 @@
 * Self-improvement
 * Teach Miss Ana programming
 
+There are multiple escape rooms nearby, but none without 15 min walk 😑
 
+suvenirs Hermanas
+A 5-minute walk from your hotel, a souvenir shop with some oddities to take home with you.
 
-Create an organized view of all of your kinky items, including but not limited to bondage rope, sex toys, sexy outfits. Organize them in a fashion you're comfortable with, excel, Google Docs, website, blog, or discord message. For every item, include at minimum a picture you've taken of it, it's name, it's function, how experiences you are with it, and your feelings about it.
+Flamenco Dance Museum
+	A 8 minute walk from your hotel, a museum related to a flamingo dance (I think), has interactive history, 
+ * museum
+
+Food:
+* La Paella Sevilla
+* Restaurante El Pasaje Tapas
+* La Escaloná
+* El Librero Tapas Y Quesos
+* PANYPIU

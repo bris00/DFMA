@@ -669,7 +669,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Series/My Hero Academia/s02e36-37.md",
+                "file": "Task ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -742,7 +742,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s02e36-37.md",
+                "file": "Task ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -759,7 +759,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s02e36-37.md",
+                "file": "Task ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -782,7 +782,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s02e36-37.md"
+                "file": "Task ideas.md"
               }
             }
           },
@@ -814,6 +814,8 @@
   },
   "active": "99320f9c3ec18fec",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Series/My Hero Academia/s02e36-37.md",
     "Series/My Hero Academia/s02e35.md",
     "Task ideas.md",
     "Series/My Hero Academia/s02e33-34.md",
@@ -821,8 +823,6 @@
     "Questions.md",
     "Slaps.md",
     "Series/My Hero Academia/s02e25.md",
-    "Series/My Hero Academia/s02e26.md",
-    "Series/My Hero Academia/s02e32.md",
-    "Series/My Hero Academia/s02e30-31.md"
+    "Series/My Hero Academia/s02e26.md"
   ]
 }
