@@ -657,14 +657,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task ideas.md",
+                "file": "Series/My Hero Academia/s02e35.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99320f9c3ec18fec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s02e36-37.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 55
+        "currentTab": 56
       }
     ],
     "direction": "vertical"
@@ -730,7 +742,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task ideas.md",
+                "file": "Series/My Hero Academia/s02e36-37.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -747,7 +759,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task ideas.md",
+                "file": "Series/My Hero Academia/s02e36-37.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -770,7 +782,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task ideas.md"
+                "file": "Series/My Hero Academia/s02e36-37.md"
               }
             }
           },
@@ -800,9 +812,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9059cc471268e4cd",
+  "active": "99320f9c3ec18fec",
   "lastOpenFiles": [
     "Series/My Hero Academia/s02e35.md",
+    "Task ideas.md",
     "Series/My Hero Academia/s02e33-34.md",
     "Fitness Reports/2023 - week 07.md",
     "Questions.md",
@@ -810,7 +823,6 @@
     "Series/My Hero Academia/s02e25.md",
     "Series/My Hero Academia/s02e26.md",
     "Series/My Hero Academia/s02e32.md",
-    "Series/My Hero Academia/s02e30-31.md",
-    "Series/My Hero Academia/s02e29.md"
+    "Series/My Hero Academia/s02e30-31.md"
   ]
 }
