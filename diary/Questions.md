@@ -1,6 +1,6 @@
 ### Counts
-* Miss Ana asks me: 14
-* I ask Miss Ana: 13
+* Miss Ana asks me: 16
+* I ask Miss Ana: 14
 
 ### My questions:
 
