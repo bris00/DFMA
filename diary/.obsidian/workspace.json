@@ -698,9 +698,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f0f893657b1b17d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s03e39-40.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 58
+        "currentTab": 59
       }
     ],
     "direction": "vertical"
@@ -766,7 +778,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fitness Reports/2023 - week 08.md",
+                "file": "Series/My Hero Academia/s03e39-40.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -783,7 +795,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fitness Reports/2023 - week 08.md",
+                "file": "Series/My Hero Academia/s03e39-40.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -806,7 +818,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fitness Reports/2023 - week 08.md"
+                "file": "Series/My Hero Academia/s03e39-40.md"
               }
             }
           },
@@ -836,8 +848,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4a788c29efa6c12",
+  "active": "f0f893657b1b17d7",
   "lastOpenFiles": [
+    "Fitness Reports/2023 - week 08.md",
     "Fitness Reports/2023 - week 07.md",
     "Series/My Hero Academia/s02e38.md",
     "Series/My Hero Academia/s02e26.md",
@@ -846,7 +859,6 @@
     "Series/My Hero Academia/s02e30-31.md",
     "Series/My Hero Academia/s02e32.md",
     "Series/My Hero Academia/s02e33-34.md",
-    "Series/My Hero Academia/s02e35.md",
-    "Chaster custom extension ideas.md"
+    "Series/My Hero Academia/s02e35.md"
   ]
 }
