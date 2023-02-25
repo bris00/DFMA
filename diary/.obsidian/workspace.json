@@ -717,7 +717,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slaps.md",
+                "file": "Shopping list.md",
                 "mode": "source",
                 "source": false
               }
@@ -790,7 +790,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slaps.md",
+                "file": "Shopping list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -807,7 +807,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slaps.md",
+                "file": "Shopping list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -830,7 +830,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slaps.md"
+                "file": "Shopping list.md"
               }
             }
           },
@@ -862,6 +862,7 @@
   },
   "active": "afdda2d4224d9f77",
   "lastOpenFiles": [
+    "Slaps.md",
     "Series/My Hero Academia/s03e41.md",
     "Series/My Hero Academia/s03e39-40.md",
     "Fitness Reports/2023 - week 08.md",
@@ -870,7 +871,6 @@
     "Series/My Hero Academia/s02e26.md",
     "Series/My Hero Academia/s02e27-28.md",
     "Series/My Hero Academia/s02e29.md",
-    "Series/My Hero Academia/s02e30-31.md",
-    "Series/My Hero Academia/s02e32.md"
+    "Series/My Hero Academia/s02e30-31.md"
   ]
 }
