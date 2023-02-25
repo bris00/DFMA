@@ -717,7 +717,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shopping list.md",
+                "file": "Slaps.md",
                 "mode": "source",
                 "source": false
               }
@@ -790,7 +790,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shopping list.md",
+                "file": "Slaps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -807,7 +807,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shopping list.md",
+                "file": "Slaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -830,7 +830,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shopping list.md"
+                "file": "Slaps.md"
               }
             }
           },
@@ -862,6 +862,7 @@
   },
   "active": "afdda2d4224d9f77",
   "lastOpenFiles": [
+    "Shopping list.md",
     "Slaps.md",
     "Series/My Hero Academia/s03e41.md",
     "Series/My Hero Academia/s03e39-40.md",
@@ -870,7 +871,6 @@
     "Series/My Hero Academia/s02e38.md",
     "Series/My Hero Academia/s02e26.md",
     "Series/My Hero Academia/s02e27-28.md",
-    "Series/My Hero Academia/s02e29.md",
-    "Series/My Hero Academia/s02e30-31.md"
+    "Series/My Hero Academia/s02e29.md"
   ]
 }
