@@ -758,9 +758,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b8c521ffb88b522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s03e46-47.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 63
+        "currentTab": 64
       }
     ],
     "direction": "vertical"
@@ -826,7 +838,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fitness Reports/2023 - week 09.md",
+                "file": "Series/My Hero Academia/s03e46-47.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -843,7 +855,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fitness Reports/2023 - week 09.md",
+                "file": "Series/My Hero Academia/s03e46-47.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -866,7 +878,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fitness Reports/2023 - week 09.md"
+                "file": "Series/My Hero Academia/s03e46-47.md"
               }
             }
           },
@@ -896,8 +908,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "941219fd02450a18",
+  "active": "9b8c521ffb88b522",
   "lastOpenFiles": [
+    "Fitness Reports/2023 - week 09.md",
     "Fitness Reports/2023 - week 08.md",
     "Slaps.md",
     "Questions.md",
@@ -906,7 +919,6 @@
     "Shopping list.md",
     "Series/My Hero Academia/s03e41.md",
     "Series/My Hero Academia/s03e39-40.md",
-    "Fitness Reports/2023 - week 07.md",
-    "Series/My Hero Academia/s02e38.md"
+    "Fitness Reports/2023 - week 07.md"
   ]
 }
