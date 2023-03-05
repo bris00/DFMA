@@ -811,9 +811,11 @@
             "id": "cf7c4a9e324ef891",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Series/My Hero Academia/s03e51.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
