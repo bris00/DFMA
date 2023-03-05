@@ -777,14 +777,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slaps.md",
+                "file": "Tasks/Hands Free Training.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c14511a9275250d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s03e49-50.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 65
+        "currentTab": 66
       }
     ],
     "direction": "vertical"
@@ -850,7 +862,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slaps.md",
+                "file": "Series/My Hero Academia/s03e49-50.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -867,7 +879,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slaps.md",
+                "file": "Series/My Hero Academia/s03e49-50.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -890,7 +902,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slaps.md"
+                "file": "Series/My Hero Academia/s03e49-50.md"
               }
             }
           },
@@ -920,17 +932,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9206239c6fa73dd7",
+  "active": "7c14511a9275250d",
   "lastOpenFiles": [
+    "Tasks/Hands Free Training.md",
+    "Task ideas.md",
+    "Slaps.md",
     "Questions.md",
     "Series/My Hero Academia/s03e48.md",
     "Series/My Hero Academia/s03e46-47.md",
     "Fitness Reports/2023 - week 09.md",
     "Fitness Reports/2023 - week 08.md",
-    "Slaps.md",
     "Series/My Hero Academia/s03e44-45.md",
-    "Series/My Hero Academia/s03e42-43.md",
-    "Shopping list.md",
-    "Series/My Hero Academia/s03e41.md"
+    "Series/My Hero Academia/s03e42-43.md"
   ]
 }
