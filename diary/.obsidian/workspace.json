@@ -878,9 +878,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d32d09d8c726aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s03e58-59.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 73
+        "currentTab": 74
       }
     ],
     "direction": "vertical"
@@ -946,7 +958,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s03e57.md",
+                "file": "Series/My Hero Academia/s03e58-59.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -963,7 +975,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s03e57.md",
+                "file": "Series/My Hero Academia/s03e58-59.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -986,7 +998,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s03e57.md"
+                "file": "Series/My Hero Academia/s03e58-59.md"
               }
             }
           },
@@ -1016,10 +1028,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9175d52617ea12b",
+  "active": "3d32d09d8c726aa0",
   "lastOpenFiles": [
-    "Series/My Hero Academia/s03e55-56.md",
     "Series/My Hero Academia/s03e57.md",
+    "Series/My Hero Academia/s03e58-59.md",
+    "Series/My Hero Academia/s03e55-56.md",
     "Series/My Hero Academia/s02e26.md",
     "Series/My Hero Academia/s02e27-28.md",
     "Series/My Hero Academia/s02e29.md",
