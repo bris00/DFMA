@@ -902,9 +902,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23d2c78e0be1df2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s03e61-62.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 75
+        "currentTab": 76
       }
     ],
     "direction": "vertical"
@@ -970,7 +982,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s03e60.md",
+                "file": "Series/My Hero Academia/s03e61-62.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -987,7 +999,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s03e60.md",
+                "file": "Series/My Hero Academia/s03e61-62.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1010,7 +1022,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s03e60.md"
+                "file": "Series/My Hero Academia/s03e61-62.md"
               }
             }
           },
@@ -1040,10 +1052,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3795e2f61a2a4583",
+  "active": "23d2c78e0be1df2e",
   "lastOpenFiles": [
-    "Fitness Reports/2023 - week 10.md",
     "Series/My Hero Academia/s03e60.md",
+    "Series/My Hero Academia/s03e61-62.md",
+    "Fitness Reports/2023 - week 10.md",
     "Series/My Hero Academia/s03e58-59.md",
     "Series/My Hero Academia/s03e57.md",
     "Series/My Hero Academia/s03e55-56.md",
@@ -1066,7 +1079,6 @@
     "Questions.md",
     "Fitness Reports/2023 - week 08.md",
     "Tasks/Hands Free Training.md",
-    "Task ideas.md",
-    "Slaps.md"
+    "Task ideas.md"
   ]
 }
