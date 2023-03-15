@@ -909,14 +909,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Series/My Hero Academia/s03e61-62.md",
+                "file": "Fitness Reports/2023 - week 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a245e96e5242a16c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fitness Reports/2023 - week 11.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 76
+        "currentTab": 77
       }
     ],
     "direction": "vertical"
@@ -982,7 +994,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s03e61-62.md",
+                "file": "Fitness Reports/2023 - week 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -999,7 +1011,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s03e61-62.md",
+                "file": "Fitness Reports/2023 - week 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1022,7 +1034,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s03e61-62.md"
+                "file": "Fitness Reports/2023 - week 11.md"
               }
             }
           },
@@ -1052,11 +1064,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23d2c78e0be1df2e",
+  "active": "a245e96e5242a16c",
   "lastOpenFiles": [
-    "Series/My Hero Academia/s03e60.md",
-    "Series/My Hero Academia/s03e61-62.md",
     "Fitness Reports/2023 - week 10.md",
+    "Fitness Reports/2023 - week 11.md",
+    "Series/My Hero Academia/s03e61-62.md",
+    "Series/My Hero Academia/s03e60.md",
     "Series/My Hero Academia/s03e58-59.md",
     "Series/My Hero Academia/s03e57.md",
     "Series/My Hero Academia/s03e55-56.md",
@@ -1078,7 +1091,6 @@
     "Fitness Reports/2023 - week 09.md",
     "Questions.md",
     "Fitness Reports/2023 - week 08.md",
-    "Tasks/Hands Free Training.md",
-    "Task ideas.md"
+    "Tasks/Hands Free Training.md"
   ]
 }
