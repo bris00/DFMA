@@ -974,9 +974,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "312d932bf94bafbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s04e65-66.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 81
+        "currentTab": 82
       }
     ],
     "direction": "vertical"
@@ -1042,7 +1054,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s04e64.md",
+                "file": "Series/My Hero Academia/s04e65-66.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1059,7 +1071,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s04e64.md",
+                "file": "Series/My Hero Academia/s04e65-66.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1082,7 +1094,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s04e64.md"
+                "file": "Series/My Hero Academia/s04e65-66.md"
               }
             }
           },
@@ -1112,10 +1124,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4720cf444ec2b143",
+  "active": "312d932bf94bafbb",
   "lastOpenFiles": [
-    "Series/My Hero Academia/s03e63.md",
     "Series/My Hero Academia/s04e64.md",
+    "Series/My Hero Academia/s04e65-66.md",
+    "Series/My Hero Academia/s03e63.md",
     "Series/My Hero Academia/s01e03-04.md",
     "Cage Reports/15th March.md",
     "Cage Reports/14th March.md",
@@ -1139,7 +1152,6 @@
     "Series/My Hero Academia/s02e33-34.md",
     "Series/My Hero Academia/s02e35.md",
     "Series/My Hero Academia/s02e36-37.md",
-    "Series/My Hero Academia/s02e38.md",
-    "Series/My Hero Academia/s03e39-40.md"
+    "Series/My Hero Academia/s02e38.md"
   ]
 }
