@@ -1005,14 +1005,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fitness Reports/2023 - week 11.md",
+                "file": "Series/My Hero Academia/s04e67.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e3030fa0fee6611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s04e67.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 84
+        "currentTab": 85
       }
     ],
     "direction": "vertical"
@@ -1078,7 +1090,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fitness Reports/2023 - week 11.md",
+                "file": "Series/My Hero Academia/s04e67.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1095,7 +1107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fitness Reports/2023 - week 11.md",
+                "file": "Series/My Hero Academia/s04e67.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1118,7 +1130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fitness Reports/2023 - week 11.md"
+                "file": "Series/My Hero Academia/s04e67.md"
               }
             }
           },
@@ -1148,10 +1160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b6ff7977f48ce8e",
+  "active": "4e3030fa0fee6611",
   "lastOpenFiles": [
-    "Essay on the importance of keeping Miss Ana's property in peak condition.md",
+    "Series/My Hero Academia/s04e68-69.md",
     "Series/My Hero Academia/s04e67.md",
+    "Fitness Reports/2023 - week 11.md",
+    "Essay on the importance of keeping Miss Ana's property in peak condition.md",
     "Series/My Hero Academia/s04e65-66.md",
     "Series/My Hero Academia/s04e64.md",
     "Series/My Hero Academia/s03e63.md",
@@ -1166,7 +1180,6 @@
     "Tasks/Hands Free Training.md",
     "Tasks/Frustrated Hero.md",
     "Task ideas.md",
-    "Fitness Reports/2023 - week 11.md",
     "Fitness Reports/2023 - week 10.md",
     "Series/My Hero Academia/s03e57.md",
     "Series/My Hero Academia/s03e55-56.md",
@@ -1175,7 +1188,6 @@
     "Series/My Hero Academia/s02e29.md",
     "Series/My Hero Academia/s02e30-31.md",
     "Series/My Hero Academia/s02e32.md",
-    "Series/My Hero Academia/s02e33-34.md",
-    "Series/My Hero Academia/s02e35.md"
+    "Series/My Hero Academia/s02e33-34.md"
   ]
 }
