@@ -1034,9 +1034,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "934520faeebe5d76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s04e71-72.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 86
+        "currentTab": 87
       }
     ],
     "direction": "vertical"
@@ -1102,7 +1114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s04e70.md",
+                "file": "Series/My Hero Academia/s04e71-72.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1119,7 +1131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s04e70.md",
+                "file": "Series/My Hero Academia/s04e71-72.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1142,7 +1154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s04e70.md"
+                "file": "Series/My Hero Academia/s04e71-72.md"
               }
             }
           },
@@ -1172,11 +1184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0405cf546a38aa2",
+  "active": "934520faeebe5d76",
   "lastOpenFiles": [
-    "Series/My Hero Academia/s04e68-69.md",
     "Series/My Hero Academia/s04e67.md",
+    "Series/My Hero Academia/s04e68-69.md",
     "Series/My Hero Academia/s04e70.md",
+    "Series/My Hero Academia/s04e71-72.md",
     "Series/My Hero Academia/s04e65-66.md",
     "Fitness Reports/2023 - week 11.md",
     "Essay on the importance of keeping Miss Ana's property in peak condition.md",
@@ -1199,7 +1212,6 @@
     "Series/My Hero Academia/s02e26.md",
     "Series/My Hero Academia/s02e27-28.md",
     "Series/My Hero Academia/s02e29.md",
-    "Series/My Hero Academia/s02e30-31.md",
-    "Series/My Hero Academia/s02e32.md"
+    "Series/My Hero Academia/s02e30-31.md"
   ]
 }
