@@ -1070,21 +1070,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f86c5f5e3cc44c86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 90
+        "currentTab": 89
       }
     ],
     "direction": "vertical"
@@ -1134,8 +1122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "619980ced8d17c05",
@@ -1151,7 +1138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1168,7 +1154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1190,9 +1175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -1221,7 +1204,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f86c5f5e3cc44c86",
+  "active": "43268a854084f453",
   "lastOpenFiles": [
     "Series/My Hero Academia/s04e73.md",
     "Untitled.md",
