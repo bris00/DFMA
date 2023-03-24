@@ -13,7 +13,7 @@ My accident has delayed the recovery of my neediness from lack of orgasms by som
 
 You have put time and effort into building up my horniness and neediness that through my actions have, if not become wasted, has had its effects reduced. In addition, you have now had to take time to punish me for my accident. I am very sorry for wasting your precious time, Miss Ana. 
 
-### What I would like to do to help prevent this from happening again
+### How to prevent further accidents
 1. If doing edges in the future, I should take a longer break if I feel like I have been built up too far, and spread the edges out over a longer timespan.
 2. If doing edges in the future, I should pay much closer attention to the task at hand, not distracting myself with other stimuli.
 3. If doing edges in the future, I should not go as close as I physically can if I have to do more than 5 edges.
