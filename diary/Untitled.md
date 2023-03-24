@@ -6,9 +6,9 @@ I am genuinely sorry for accidentally having an orgasm while I was edging for yo
 I was using my vibrator to help me edge and watching some femdom porn, trying to work on a program for you, in-between edges. When I was on my 8th edge, I felt like everything was OK. But when I removed the vibrator, the pressure kept building and the restriction of the cage pushed me over the edge after about 5 seconds after removing the vibrator. It was a very messy clean-up after.
 
 ### What I did wrong
-Firstly, I did not pay enough attention to my edges and the task I was given by Miss Ana, I am certain that me being distracted by other things contributed to my accident. Secondly, I already know accidents while edging is something that happens to me, and something that has happened to other simps. So I should not have gone as close to the edge as I did.
+Firstly, I did not pay enough attention to my edges and the task I was given by Miss Ana, I am certain that me being distracted by other things contributed to my accident. Secondly, I already know accidents while edging is something that can happen to me, and something that has happened to other simps. So I should not have gone as close to the edge as I did.
 
-### How did this impact you
+### How did this impacted you
 My accident has delayed the recovery of my neediness from lack of orgasms by some days, and a lack of neediness results in me being less attentive to your needs and desires, Miss Ana. I am sorry for the loss of attentiveness towards you that I have caused, Miss Ana. 
 
 You have put time and effort into building up my horniness and neediness that through my actions have, if not become wasted, has had its effects reduced. In addition, you have now had to take time to punish me for my accident. I am very sorry for wasting your precious time, Miss Ana. 
