@@ -1138,6 +1138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Series/My Hero Academia/s04e73.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1154,6 +1155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Series/My Hero Academia/s04e73.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1175,7 +1177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Series/My Hero Academia/s04e73.md"
+              }
             }
           },
           {
@@ -1204,10 +1208,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43268a854084f453",
+  "active": "01f0e40e1351f845",
   "lastOpenFiles": [
-    "Series/My Hero Academia/s04e73.md",
     "Untitled.md",
+    "Series/My Hero Academia/s04e73.md",
     "Series/My Hero Academia/s04e71-72.md",
     "Fitness Reports/2023 - week 12.md",
     "Fitness Reports/2023 - week 11.md",
