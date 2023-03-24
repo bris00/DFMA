@@ -1070,9 +1070,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f86c5f5e3cc44c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 89
+        "currentTab": 90
       }
     ],
     "direction": "vertical"
@@ -1138,7 +1150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s04e73.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1155,7 +1167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s04e73.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1178,7 +1190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s04e73.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -1208,10 +1220,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01f0e40e1351f845",
+  "active": "f86c5f5e3cc44c86",
   "lastOpenFiles": [
-    "Series/My Hero Academia/s04e71-72.md",
     "Series/My Hero Academia/s04e73.md",
+    "Untitled.md",
+    "Series/My Hero Academia/s04e71-72.md",
     "Fitness Reports/2023 - week 12.md",
     "Fitness Reports/2023 - week 11.md",
     "Series/My Hero Academia/s04e67.md",
@@ -1235,7 +1248,6 @@
     "Fitness Reports/2023 - week 10.md",
     "Series/My Hero Academia/s03e57.md",
     "Series/My Hero Academia/s03e55-56.md",
-    "Series/My Hero Academia/s02e26.md",
-    "Series/My Hero Academia/s02e27-28.md"
+    "Series/My Hero Academia/s02e26.md"
   ]
 }
