@@ -1082,9 +1082,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16e927ba9be07e64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s04e75.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 90
+        "currentTab": 91
       }
     ],
     "direction": "vertical"
@@ -1150,7 +1162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s04e74.md",
+                "file": "Series/My Hero Academia/s04e75.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1167,7 +1179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s04e74.md",
+                "file": "Series/My Hero Academia/s04e75.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1190,7 +1202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s04e74.md"
+                "file": "Series/My Hero Academia/s04e75.md"
               }
             }
           },
@@ -1220,10 +1232,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33b333c4254a855e",
+  "active": "16e927ba9be07e64",
   "lastOpenFiles": [
-    "Series/My Hero Academia/s04e73.md",
     "Series/My Hero Academia/s04e74.md",
+    "Series/My Hero Academia/s04e75.md",
+    "Series/My Hero Academia/s04e73.md",
     "Untitled.md",
     "Series/My Hero Academia/s04e71-72.md",
     "Fitness Reports/2023 - week 12.md",
@@ -1247,7 +1260,6 @@
     "Tasks/Frustrated Hero.md",
     "Task ideas.md",
     "Fitness Reports/2023 - week 10.md",
-    "Series/My Hero Academia/s03e57.md",
-    "Series/My Hero Academia/s03e55-56.md"
+    "Series/My Hero Academia/s03e57.md"
   ]
 }
