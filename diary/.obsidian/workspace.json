@@ -1106,9 +1106,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79f39a9069850ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s04e77.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 92
+        "currentTab": 93
       }
     ],
     "direction": "vertical"
@@ -1174,7 +1186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fitness Reports/2023 - week 12.md",
+                "file": "Series/My Hero Academia/s04e77.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1191,7 +1203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fitness Reports/2023 - week 12.md",
+                "file": "Series/My Hero Academia/s04e77.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1214,7 +1226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fitness Reports/2023 - week 12.md"
+                "file": "Series/My Hero Academia/s04e77.md"
               }
             }
           },
@@ -1244,11 +1256,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd50e21da1af6e39",
+  "active": "79f39a9069850ac5",
   "lastOpenFiles": [
+    "Fitness Reports/2023 - week 12.md",
+    "Series/My Hero Academia/s04e77.md",
     "Fitness Reports/2023 - week 11.md",
     "Fitness Reports/2023 - week 10.md",
-    "Fitness Reports/2023 - week 12.md",
     "Series/My Hero Academia/s04e76.md",
     "Series/My Hero Academia/s04e75.md",
     "Series/My Hero Academia/s04e74.md",
@@ -1271,7 +1284,6 @@
     "Series/My Hero Academia/s03e60.md",
     "Series/My Hero Academia/s03e58-59.md",
     "Tasks/Hands Free Training.md",
-    "Tasks/Frustrated Hero.md",
-    "Task ideas.md"
+    "Tasks/Frustrated Hero.md"
   ]
 }
