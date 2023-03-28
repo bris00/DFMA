@@ -1,6 +1,6 @@
 Dear Miss Ana,
 
-I hope this letter finds you well. I wanted to take a moment to express my devotion to you. You deserve all the praise you can get. Even though I was a new face on this server, you took me in warmly and I have felt welcomed, warm, fuzzy, and at rest by your side, ever since. Thank you so much for what you've done for me!
+I hope this letter finds you well. I wanted to take a moment to express my devotion to you. You deserve all the praise you can get. Even though I was a new face on this server, you took me in warmly and I have felt welcomed, warm, fuzzy, and at rest by your side, ever since. You may not realize it, but you have had a big positive impact on me. Thank you so much for what you've done for me, Miss Ana, I appreciate it dearly!
 
 You make me feel safe exploring who I am, and it's been great to have someone to devote myself to who accepts me as the submissive I am. When I'm with you, I feel appreciated, like all the tasks I do for you matters and that they are noticed. You can toy with me in a way that leaves me feeling like I've lost all control, completely subservient to your every whim.
 
@@ -31,17 +31,15 @@ Finally, your patience with us is truly remarkable. Even when we make mistakes, 
 * Creating rules for me
 * Enforcing that I do as I'm told
 
-I just wanted to take a moment to express my gratitude for all the hard work you do. You may not realize it, but your efforts have a tremendous impact on me, and I truly appreciate all that you do.
+Thank you for taking the time to talk with me, whether it's to listen to my voice recordings or reading my rambling texts about my fitness journey, My Hero Academia, or my needy questions. Your willingness to engage with me means a lot to me.
 
-Thank you for taking the time to talk with me, whether it's to listen to my stories or help me work through a problem. Your willingness to lend an ear means more to me than you know.
+Your leadership of the dojo is inspiring, and I am grateful for the guidance and direction you provide us simps. Your ability to organize and manage tasks, especially when motivated by games, is awesome. 
 
-Your leadership is inspiring, and I am grateful for the guidance and direction you provide. Your ability to organize and manage tasks is truly impressive, and it's a privilege to work alongside you.
-
-Playing games with us is always a blast, and I appreciate the effort you put into making these activities fun and engaging. Your playful spirit and sense of humor make you a joy to be around.
+Playing games with you is always a blast, and I appreciate the effort you put into making these activities even more fun and engaging for your simps. Your playful spirit and sense of humor make you a joy to be around.
 
 Thank you for taking the time to play with me, whether it's tossing a ball around or building a puzzle. Your willingness to engage with me on my level means the world to me.
 
-Your choices and rules are always fair and well thought out, and I am grateful for the structure and stability they provide. Your enforcement of these rules ensures that I stay on track and continue to grow and develop.
+Your choices and rules are always fair and well-thought-out, and I am grateful for the structure and stability they provide. Your enforcement of these rules ensures that I stay on track and continue to grow and develop.
 
 Thank you again for all that you do. Your hard work does not go unnoticed, and I am lucky to have you in my life. Please know that you are appreciated and valued. Really.
 
