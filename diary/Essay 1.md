@@ -12,11 +12,9 @@ Being around you is such an intense experience, but one that I wouldn't trade fo
 
 You are an incredibly kind person, always willing to give mercy, but turn up the heat when needed. Your generosity knows no bounds, and you consistently give of your time and resources to make us feel cared for. Your strictness and dominant nature, is also a testament to your strength and ability to control your simps.
 
-Furthermore, your considerate nature is something that sets you apart from others. You always take the time to think about the impact of your actions and words on those around you, and strive to make choices that will benefit the greater good. Your perfectionist tendencies can be challenging at times, but they are also a testament to your commitment to excellence.
+Furthermore, your considerate nature is something that sets you apart from others. You always take the time to think about the impact of your actions, and I can tell you strive to make choices that will benefit us in the end, even if we cannot see it immediately.
 
-Finally, your patience is truly remarkable. You have a calm and collected demeanor that allows you to navigate difficult situations with ease, and your ability to remain level-headed in the face of adversity is something that I truly admire.
-
-Overall, I just wanted to say that you are an amazing person with an incredible character. Keep being you, and know that you are appreciated and valued.
+Finally, your patience with us is truly remarkable. Even when we make mistakes, you show that you care about us before punishing us so that we may learn.
 
 [How great you look]
 * Hot
@@ -45,7 +43,7 @@ Thank you for taking the time to play with me, whether it's tossing a ball aroun
 
 Your choices and rules are always fair and well thought out, and I am grateful for the structure and stability they provide. Your enforcement of these rules ensures that I stay on track and continue to grow and develop.
 
-Thank you again for all that you do. Your hard work does not go unnoticed, and I am lucky to have you in my life.
+Thank you again for all that you do. Your hard work does not go unnoticed, and I am lucky to have you in my life. Please know that you are appreciated and valued. Really.
 
 With all my heart,
 
