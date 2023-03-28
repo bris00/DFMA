@@ -10,7 +10,7 @@ I feel weak under you, like I'm powerless against your will. You make me feel vu
 
 Being around you is such an intense experience, but one that I wouldn't trade for anything. You make me feel so many things at once, and I would not have it any other way.
 
-You are an incredibly kind person, always willing to give mercy, but you can turn up the heat when needed. Your generosity knows no bounds, and you consistently give of your time and resources to make us feel cared for. Your strictness and dominant nature, is a testament to your strength and ability to control your simps.
+You are an incredibly kind person, always willing to give mercy, but you can turn up the heat when needed. Your generosity knows no bounds, and you consistently give of your time and energy to make us feel cared for. Your strictness and dominant nature, is a testament to your strength and ability to control your simps.
 
 Furthermore, your considerate nature is something that sets you apart. I feel like you always take the time to think about the impact of your actions, and I can tell you strive to make choices that will benefit us in the end, even if we cannot see it immediately.
 
