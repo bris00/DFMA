@@ -39,7 +39,7 @@ Playing games with you is always a blast, and I appreciate the effort you put in
 
 Thank you for taking the time to play with me, especially the night of your birthday will always be a memory I will hold dear. It still makes me feel weak and leaky when I think back on it. Something I cannot help but do all too often.
 
-I appYour choices and rules are always fair and well-thought-out, and I am grateful for the structure and stability they provide. Your enforcement of these rules ensures that I stay on track and continue to grow and develop.
+I appreciate all the time you spend making rules  Your choices and rules are always fair and well-thought-out, and I am grateful for the structure and stability they provide. Your enforcement of these rules ensures that I stay on track and continue to grow and develop.
 
 Thank you again for all that you do. Your hard work does not go unnoticed, and I am lucky to have you in my life. Please know that you are appreciated and valued. Really.
 
