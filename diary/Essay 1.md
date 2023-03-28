@@ -6,7 +6,7 @@ You make me feel safe exploring who I am, and it's been great to have someone to
 
 It's an odd bag of emotions, but being around you really makes me happy. I feel safe and cared for when I'm with you, and the times you have been generous enough to play and toy with me, you have made me feel so horny I cannot think straight.
 
-I feel weak under you, like I'm powerless against your will. You make me feel vulnerable around you, and that can be scary. But it also feels perfect to be vulnerable around someone who accepts me and makes me feel listened to. 
+I feel weak under you, like I'm powerless against your will. You make me feel vulnerable around you, and that can be scary. But it also feels perfect to be vulnerable around someone who accepts me and makes me feel listened to. Lately I have started feeling your ownership of parts of me, something that is entirely new to me, but I cannot express in words how amazing it feels.
 
 Being around you is such an intense experience, but one that I wouldn't trade for anything. You make me feel so many things at once, and I would not have it any other way.
 
@@ -29,5 +29,6 @@ I appreciate all the time you spend making rules for us, and all the time you sp
 Thank you again for all that you do. Your hard work does not go unnoticed, and I am lucky to have you in my life. Please know that you are appreciated and valued. Really.
 
 With all my heart,
+Your needy simp,
 
-Your needy simp - Bris
+Bris
