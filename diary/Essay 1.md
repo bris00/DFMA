@@ -16,21 +16,6 @@ Furthermore, your considerate nature is something that sets you apart from other
 
 Finally, your patience with us is truly remarkable. Even when we make mistakes, you show that you care about us before punishing us so that we may learn.
 
-[How great you look]
-* Hot
-* Cute 
-* Sexy
-* Sweet
-
-[For all the work you put in]
-* Talking with me
-* Leading us
-* Playing games with us
-* Playing with me
-* Making choices for me
-* Creating rules for me
-* Enforcing that I do as I'm told
-
 Thank you for taking the time to talk with me, whether it's to listen to my voice recordings or reading my rambling texts about my fitness journey, My Hero Academia, or my needy questions. Your willingness to engage with me means a lot to me.
 
 Your leadership of the dojo is inspiring, and I am grateful for the guidance and direction you provide us simps. Your ability to organize and manage tasks, especially when motivated by games, is awesome. 
@@ -39,27 +24,10 @@ Playing games with you is always a blast, and I appreciate the effort you put in
 
 Thank you for taking the time to play with me, especially the night of your birthday will always be a memory I will hold dear. It still makes me feel weak and leaky when I think back on it. Something I cannot help but do all too often.
 
-I appreciate all the time you spend making rules  Your choices and rules are always fair and well-thought-out, and I am grateful for the structure and stability they provide. Your enforcement of these rules ensures that I stay on track and continue to grow and develop.
+I appreciate all the time you spend making rules for us, and all the time you spend making the choices I happily surrender to you. Your enforcement of these rules ensures that I stay on track and continue to grow and develop.
 
 Thank you again for all that you do. Your hard work does not go unnoticed, and I am lucky to have you in my life. Please know that you are appreciated and valued. Really.
 
 With all my heart,
 
 Your needy simp - Bris
-
-------------
-
-
-Thank you Miss Ana for playing with my lock, I absolutely love it when you do that ![💜](https://discord.com/assets/ec10708f00b5b6767490ffe50dfe2663.svg)
-
-1.  I started on the chaster server as a bit of a no-name, I had a some exposure in the old chastikey server but not much there either. And still you took me in at the start of this year Miss Ana, and I'm grateful for the warm welcome you've shown me. There are many things I could praise you for, the attention you give me, the way you listen when I try to communicate, the way you make me feel when you tell me what to do or I do tasks for you. But I want to tell you about something else, less sexy, now. I do experience some emotions somewhat muted, I have been better as I get older. But I rarely feel strong emotions of happiness or sadness. But in the last week I have been going to bed, tucked in before falling asleep, felling very happy. I can't explain why, but I know it is because of you Miss Ana and me feeling safe and taken care of under you! Thank you so much Miss Ana for continuing making the choices I don't want to make myself for me. And for all the time and energy you spend caring, reading about, watching and playing with all of us. ![:hug:](https://cdn.discordapp.com/emojis/870837415818985473.webp?size=100&quality=lossless) (edited)
-    
-    ![💜](https://discord.com/assets/ec10708f00b5b6767490ffe50dfe2663.svg)
-    
-    1
-    
-
-February 24, 2023
-
-I am very grateful to Miss Ana for spending so much time with us in VC! Especially the last weeks have been amazing, I had so much fun playing Terraria and playing drinking games with you Miss Ana. I also appreciate Dee and Camille for hosting, but this is ana-praise not #dee-praise. And I'm sure Dee is happy with that!
-
