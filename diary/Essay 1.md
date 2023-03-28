@@ -35,11 +35,11 @@ Thank you for taking the time to talk with me, whether it's to listen to my voic
 
 Your leadership of the dojo is inspiring, and I am grateful for the guidance and direction you provide us simps. Your ability to organize and manage tasks, especially when motivated by games, is awesome. 
 
-Playing games with you is always a blast, and I appreciate the effort you put into making these activities even more fun and engaging for your simps. Your playful spirit and sense of humor make you a joy to be around.
+Playing games with you is always a blast, and I appreciate the effort you put into making these activities even more fun and engaging for your simps. Your playful spirit and sense of humour make you a great drinking partner when we are engaging in drinking games until the late hours of the night.
 
-Thank you for taking the time to play with me, whether it's tossing a ball around or building a puzzle. Your willingness to engage with me on my level means the world to me.
+Thank you for taking the time to play with me, especially the night of your birthday will always be a memory I will hold dear. It still makes me feel weak and leaky when I think back on it. Something I cannot help but do all too often.
 
-Your choices and rules are always fair and well-thought-out, and I am grateful for the structure and stability they provide. Your enforcement of these rules ensures that I stay on track and continue to grow and develop.
+I appYour choices and rules are always fair and well-thought-out, and I am grateful for the structure and stability they provide. Your enforcement of these rules ensures that I stay on track and continue to grow and develop.
 
 Thank you again for all that you do. Your hard work does not go unnoticed, and I am lucky to have you in my life. Please know that you are appreciated and valued. Really.
 
