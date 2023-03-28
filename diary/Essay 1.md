@@ -1,9 +1,9 @@
 Dear Miss Ana,
 
-Even though I was a new face on this server, you took me in warmly and I have felt welcomed, warm, fuzzy, and at rest by your side, ever since. Thank you so much for what you've done for me!
+I hope this letter finds you well. I wanted to take a moment to express my devotion to you. You deserve all the praise you can get. Even though I was a new face on this server, you took me in warmly and I have felt welcomed, warm, fuzzy, and at rest by your side, ever since. Thank you so much for what you've done for me!
 
 [How you make me feel]
-You make me feel safe exploring who I am, and it's been great to have someone to devote myself to who accepts me as the submissive I am. 
+
 
 * Appreciated
 * Toyed with
@@ -20,6 +20,14 @@ You make me feel safe exploring who I am, and it's been great to have someone to
 * Powerless
 * Vulnerable
 
+You make me feel safe exploring who I am, and it's been great to have someone to devote myself to who accepts me as the submissive I am. When I'm with you, I feel appreciated, like all the tasks I do for you matters and that they are noticed. You can toy with me in a way that leaves me feeling like I've lost all control, completely subservient to your every whim.
+
+It's an odd bag of emotions, but being around you really makes me so happy. I feel safe and cared for when I'm with you, and I have to admit, sometimes being around you makes me feel a little bit horny.
+
+But at the same time, I feel weak, like I'm powerless against the way you make me feel. I'm vulnerable around you, and that can be scary. But I also feel like you really listen to me, like you understand me in a way that no one else does. Sometimes it's like I can't even think straight when I'm around you.
+
+I just wanted you to know that being with you is such an intense experience, but one that I wouldn't trade for anything. You make me feel so many things at once, and I'm grateful to have you in my life.
+
 [How you act]
 * Kind
 * Communicate
@@ -29,6 +37,16 @@ You make me feel safe exploring who I am, and it's been great to have someone to
 * Considerate
 * Perfect
 * Patient
+
+I hope this letter finds you well. I just wanted to take a moment to acknowledge your wonderful character. You are an incredibly kind person, always willing to lend a helping hand to those in need. Your ability to communicate effectively is also admirable, as it allows you to connect with others on a deeper level and build meaningful relationships.
+
+Your generosity knows no bounds, and you consistently give of your time and resources to make others feel valued and appreciated. Your strictness and dominant nature, while sometimes challenging, is also a testament to your strength and ability to maintain order in chaotic situations.
+
+Furthermore, your considerate nature is something that sets you apart from others. You always take the time to think about the impact of your actions and words on those around you, and strive to make choices that will benefit the greater good. Your perfectionist tendencies can be challenging at times, but they are also a testament to your commitment to excellence.
+
+Finally, your patience is truly remarkable. You have a calm and collected demeanor that allows you to navigate difficult situations with ease, and your ability to remain level-headed in the face of adversity is something that I truly admire.
+
+Overall, I just wanted to say that you are an amazing person with an incredible character. Keep being you, and know that you are appreciated and valued.
 
 [How great you look]
 * Hot
@@ -44,6 +62,20 @@ You make me feel safe exploring who I am, and it's been great to have someone to
 * Making choices for me
 * Creating rules for me
 * Enforcing that I do as I'm told
+
+I just wanted to take a moment to express my gratitude for all the hard work you do. You may not realize it, but your efforts have a tremendous impact on me, and I truly appreciate all that you do.
+
+Thank you for taking the time to talk with me, whether it's to listen to my stories or help me work through a problem. Your willingness to lend an ear means more to me than you know.
+
+Your leadership is inspiring, and I am grateful for the guidance and direction you provide. Your ability to organize and manage tasks is truly impressive, and it's a privilege to work alongside you.
+
+Playing games with us is always a blast, and I appreciate the effort you put into making these activities fun and engaging. Your playful spirit and sense of humor make you a joy to be around.
+
+Thank you for taking the time to play with me, whether it's tossing a ball around or building a puzzle. Your willingness to engage with me on my level means the world to me.
+
+Your choices and rules are always fair and well thought out, and I am grateful for the structure and stability they provide. Your enforcement of these rules ensures that I stay on track and continue to grow and develop.
+
+Thank you again for all that you do. Your hard work does not go unnoticed, and I am lucky to have you in my life.
 
 With all my heart,
 
