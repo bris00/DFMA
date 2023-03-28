@@ -2,43 +2,15 @@ Dear Miss Ana,
 
 I hope this letter finds you well. I wanted to take a moment to express my devotion to you. You deserve all the praise you can get. Even though I was a new face on this server, you took me in warmly and I have felt welcomed, warm, fuzzy, and at rest by your side, ever since. Thank you so much for what you've done for me!
 
-[How you make me feel]
-
-
-* Appreciated
-* Toyed with
-* Loss of control
-* Subservient
-* Happy
-* Safe
-* Horny
-* Weak
-* Cared for
-* Scared
-* Listened to
-* Like I can't think straight
-* Powerless
-* Vulnerable
-
 You make me feel safe exploring who I am, and it's been great to have someone to devote myself to who accepts me as the submissive I am. When I'm with you, I feel appreciated, like all the tasks I do for you matters and that they are noticed. You can toy with me in a way that leaves me feeling like I've lost all control, completely subservient to your every whim.
 
-It's an odd bag of emotions, but being around you really makes me so happy. I feel safe and cared for when I'm with you, and I have to admit, sometimes being around you makes me feel a little bit horny.
+It's an odd bag of emotions, but being around you really makes me happy. I feel safe and cared for when I'm with you, and the times you have been generous enough to play and toy with me, you have made me feel so horny I cannot think straight.
 
-But at the same time, I feel weak, like I'm powerless against the way you make me feel. I'm vulnerable around you, and that can be scary. But I also feel like you really listen to me, like you understand me in a way that no one else does. Sometimes it's like I can't even think straight when I'm around you.
+I feel weak under you, like I'm powerless against your will. You make me feel vulnerable around you, and that can be scary. But it also feels perfect to be vulnerable around someone who accepts me. And you make me feel listened to. 
 
-I just wanted you to know that being with you is such an intense experience, but one that I wouldn't trade for anything. You make me feel so many things at once, and I'm grateful to have you in my life.
+Being around you is such an intense experience, but one that I wouldn't trade for anything. You make me feel so many things at once, and I would not have it any other way.
 
-[How you act]
-* Kind
-* Communicate
-* Generous
-* Strict
-* Dominant
-* Considerate
-* Perfect
-* Patient
-
-I hope this letter finds you well. I just wanted to take a moment to acknowledge your wonderful character. You are an incredibly kind person, always willing to lend a helping hand to those in need. Your ability to communicate effectively is also admirable, as it allows you to connect with others on a deeper level and build meaningful relationships.
+You are an incredibly kind person, always willing to forgive . Your ability to communicate effectively is also admirable, as it allows you to connect with others on a deeper level and build meaningful relationships.
 
 Your generosity knows no bounds, and you consistently give of your time and resources to make others feel valued and appreciated. Your strictness and dominant nature, while sometimes challenging, is also a testament to your strength and ability to maintain order in chaotic situations.
 
