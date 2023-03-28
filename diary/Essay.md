@@ -6,4 +6,4 @@ There is also of course the matter of health, failing to properly care for Miss 
 
 Lastly, keeping Miss Ana's property in good shape is important because it enhances the experience of everyone in the dojo. Everyone needs someone to be frenemies with, someone to tease, and someone to get in trouble with. All with the ultimate goal of making Miss Ana happy, seeing us compete and dragging each other further into Miss Ana's control. This is not possible when absent because Miss Ana's property needs to rest.
 
-In conclusion, keeping Miss Ana's property in peak condition is essential in order to ensure the happiness of Miss Ana in the short and long term. And in order to prevent further carry over damage. Keeping Miss Ana's property is a small price to pay in order to maintain its value for Miss Ana.
+In conclusion, keeping Miss Ana's property in peak condition is essential in order to ensure the happiness of Miss Ana in the short and long term. And in order to prevent further carry over damage. Keeping Miss Ana's property is a small price to pay in order to maintaining its value for Miss Ana.

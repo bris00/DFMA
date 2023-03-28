@@ -1113,14 +1113,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Series/My Hero Academia/s04e77.md",
+                "file": "Essay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f9f65968074e772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essay 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 93
+        "currentTab": 94
       }
     ],
     "direction": "vertical"
@@ -1186,7 +1198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s04e77.md",
+                "file": "Essay 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1203,7 +1215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s04e77.md",
+                "file": "Essay 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1226,7 +1238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s04e77.md"
+                "file": "Essay 1.md"
               }
             }
           },
@@ -1256,10 +1268,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79f39a9069850ac5",
+  "active": "2f9f65968074e772",
   "lastOpenFiles": [
-    "Fitness Reports/2023 - week 12.md",
+    "Essay.md",
+    "Essay 1.md",
     "Series/My Hero Academia/s04e77.md",
+    "Fitness Reports/2023 - week 12.md",
     "Fitness Reports/2023 - week 11.md",
     "Fitness Reports/2023 - week 10.md",
     "Series/My Hero Academia/s04e76.md",
@@ -1272,7 +1286,6 @@
     "Series/My Hero Academia/s04e68-69.md",
     "Series/My Hero Academia/s04e70.md",
     "Series/My Hero Academia/s04e65-66.md",
-    "Essay on the importance of keeping Miss Ana's property in peak condition.md",
     "Series/My Hero Academia/s04e64.md",
     "Series/My Hero Academia/s03e63.md",
     "Series/My Hero Academia/s01e03-04.md",
@@ -1283,7 +1296,6 @@
     "Series/My Hero Academia/s03e61-62.md",
     "Series/My Hero Academia/s03e60.md",
     "Series/My Hero Academia/s03e58-59.md",
-    "Tasks/Hands Free Training.md",
-    "Tasks/Frustrated Hero.md"
+    "Tasks/Hands Free Training.md"
   ]
 }
