@@ -14,11 +14,11 @@ You are an incredibly kind person, always willing to give mercy, but you can tur
 
 Furthermore, your considerate nature is something that sets you apart. I feel like you always take the time to think about the impact of your actions, and I can tell you strive to make choices that will benefit us in the end, even if we cannot see it immediately.
 
-Finally, your patience with us is truly remarkable. Even when we make mistakes, you show that you care about us before punishing us so that we may learn.
+Finally, your patience with us knows no bound. Even when we make mistakes, you show that you care about us and that we are valued before punishing us so that we may learn from our mistakes.
 
 Thank you for taking the time to talk with me, whether it's to listen to my voice recordings or reading my rambling texts about my fitness journey, My Hero Academia, or my needy questions. Your willingness to engage with me means a lot to me.
 
-Your leadership of the dojo is inspiring, and I am grateful for the guidance and direction you provide us simps. Your ability to organize and manage tasks, especially when motivated by games, is awesome. 
+Your leadership of the dojo is inspiring, and I am grateful for the guidance and direction you provide us simps. You know exactly how to organize and manage tasks, especially when motivated by games, that ability is awesome. 
 
 Playing games with you is always a blast, and I appreciate the effort you put into making these activities even more fun and engaging for your simps. Your playful spirit and sense of humour make you a great drinking partner when we are engaging in drinking games until the late hours of the night.
 
