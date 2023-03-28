@@ -10,9 +10,7 @@ I feel weak under you, like I'm powerless against your will. You make me feel vu
 
 Being around you is such an intense experience, but one that I wouldn't trade for anything. You make me feel so many things at once, and I would not have it any other way.
 
-You are an incredibly kind person, always willing to forgive . Your ability to communicate effectively is also admirable, as it allows you to connect with others on a deeper level and build meaningful relationships.
-
-Your generosity knows no bounds, and you consistently give of your time and resources to make others feel valued and appreciated. Your strictness and dominant nature, while sometimes challenging, is also a testament to your strength and ability to maintain order in chaotic situations.
+You are an incredibly kind person, always willing to give mercy, but turn up the heat when needed. Your generosity knows no bounds, and you consistently give of your time and resources to make us feel cared for. Your strictness and dominant nature, is also a testament to your strength and ability to control your simps.
 
 Furthermore, your considerate nature is something that sets you apart from others. You always take the time to think about the impact of your actions and words on those around you, and strive to make choices that will benefit the greater good. Your perfectionist tendencies can be challenging at times, but they are also a testament to your commitment to excellence.
 
