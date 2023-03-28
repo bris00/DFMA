@@ -18,7 +18,7 @@ Finally, your patience with us knows no bound. Even when we make mistakes, you s
 
 Thank you for taking the time to talk with me, whether it's to listen to my voice recordings or reading my rambling texts about my fitness journey, My Hero Academia, or my needy questions. Your willingness to engage with me means a lot to me.
 
-Your leadership of the dojo is inspiring, and I am grateful for the guidance and direction you provide us simps. You know exactly how to organize and manage tasks, especially when motivated by games, that ability is awesome. 
+Your leadership of the dojo is inspiring, and I am grateful for the guidance and direction you provide us simps. You know exactly how to organize and manage our tasks, especially when motivated by games, that ability is awesome. 
 
 Playing games with you is always a blast, and I appreciate the effort you put into making these activities even more fun and engaging for your simps. Your playful spirit and sense of humour make you a great drinking partner when we are engaging in drinking games until the late hours of the night.
 
