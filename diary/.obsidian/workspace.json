@@ -1125,14 +1125,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essay 1.md",
+                "file": "Series/My Hero Academia/s04e77.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "419992a55c0b7336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s04e78-79.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 94
+        "currentTab": 95
       }
     ],
     "direction": "vertical"
@@ -1198,7 +1210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essay 1.md",
+                "file": "Series/My Hero Academia/s04e78-79.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1215,7 +1227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essay 1.md",
+                "file": "Series/My Hero Academia/s04e78-79.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1238,7 +1250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essay 1.md"
+                "file": "Series/My Hero Academia/s04e78-79.md"
               }
             }
           },
@@ -1268,11 +1280,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f9f65968074e772",
+  "active": "419992a55c0b7336",
   "lastOpenFiles": [
-    "Essay.md",
-    "Essay 1.md",
     "Series/My Hero Academia/s04e77.md",
+    "Series/My Hero Academia/s04e78-79.md",
+    "Essay 1.md",
+    "Essay.md",
     "Fitness Reports/2023 - week 12.md",
     "Fitness Reports/2023 - week 11.md",
     "Fitness Reports/2023 - week 10.md",
@@ -1295,7 +1308,6 @@
     "Cage Reports",
     "Series/My Hero Academia/s03e61-62.md",
     "Series/My Hero Academia/s03e60.md",
-    "Series/My Hero Academia/s03e58-59.md",
-    "Tasks/Hands Free Training.md"
+    "Series/My Hero Academia/s03e58-59.md"
   ]
 }
