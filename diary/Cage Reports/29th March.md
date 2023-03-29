@@ -1,0 +1,1 @@
+I think today went better than last time Miss Ana, I set an alarm for 30 minutes to try to be on the safe side. The good news is that I have more or less figures out how to put it on fairly easily. The bad news is that I think the spout is too small for me, I did not to 
