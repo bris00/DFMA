@@ -2,7 +2,7 @@ Dear Miss Ana,
 
 This is the second part of my letter to you. I hope this letter finds you well, even if a bit late, thank you for the patience you have shown me regarding getting this letter to you. 
 
-When I watch you interact with others in the chaster server, I get this feeling of being proud to be your lockee. I see you acting so selfless and I see how much you care about the people you talk with, and you genuinely try to help them. You are awesome to do this for anyone, regardless of how well you know them. You're a giver, and I even sometimes worry that you give too much of yourself. 
+When I watch you interact with others in the chaster server, I get this feeling of being proud to be your lockee. I see you acting so selfless, and I see how much you care about the people you talk with, and you genuinely try to help them. You are awesome to do this for anyone, regardless of how well you know them. You're a giver, and I even sometimes worry that you give too much of yourself. 
 
 I love how you are not just a great Domme, but we also can talk about other non-kinky topics. You are knowledgeable about so many topics, and you know how to keep a conversation going. I could listen to you talk about your interests forever, whether it's games, K-pop, anime, or your cat. 
 
