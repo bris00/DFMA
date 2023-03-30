@@ -1161,14 +1161,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essay 1 1.md",
+                "file": "Series/My Hero Academia/s04e78-79.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8376a1f0d9412e93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s04e78-79.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5cb25132f7a0dde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s04e80.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 97
+        "currentTab": 99
       }
     ],
     "direction": "vertical"
@@ -1234,7 +1258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essay 1 1.md",
+                "file": "Series/My Hero Academia/s04e80.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1251,7 +1275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essay 1 1.md",
+                "file": "Series/My Hero Academia/s04e80.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1274,7 +1298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essay 1 1.md"
+                "file": "Series/My Hero Academia/s04e80.md"
               }
             }
           },
@@ -1304,14 +1328,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58e8f511d51a1055",
+  "active": "b5cb25132f7a0dde",
   "lastOpenFiles": [
-    "Essay 1.md",
+    "Series/My Hero Academia/s04e78-79.md",
+    "Series/My Hero Academia/s04e80.md",
     "Essay 1 1.md",
+    "Essay 1.md",
     "Cage Reports/29th March.md",
     "Cage Reports/15th March.md",
     "Cage Reports/14th March.md",
-    "Series/My Hero Academia/s04e78-79.md",
     "Series/My Hero Academia/s04e77.md",
     "Essay.md",
     "Fitness Reports/2023 - week 12.md",
@@ -1331,7 +1356,6 @@
     "Series/My Hero Academia/s03e63.md",
     "Series/My Hero Academia/s01e03-04.md",
     "Diary/2023-03-15.md",
-    "Cage Reports",
-    "Series/My Hero Academia/s03e61-62.md"
+    "Cage Reports"
   ]
 }
