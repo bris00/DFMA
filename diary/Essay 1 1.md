@@ -6,4 +6,6 @@ When I watch you interact with others in the chaster server, I get this feeling 
 
 I love how you are not just a great Domme, but we also can talk about other non-kinky topics. You are knowledgeable about so many topics, and you know how to keep a conversation going. I could listen to you talk about your interests forever, whether it's games, k-pop or your cat. 
 
+I also have to admit that I'm totally smitten by your looks, I have been keeping the picture of you with your leather boots on as my wallpaper ever since I asked and every time I open my phone I'm reminded of how absolutely amazing you look Miss Ana. At first, I was afraid that I would get "used" to the wallpaper and would forget to hide it while someone was watching. That has not happened because I get this shock and awe feeling running through me each time I see that picture. Reminding me both that I'm yours, but also that I should be discreet with showing my background in public. 
+
 [About being strict and mean]
