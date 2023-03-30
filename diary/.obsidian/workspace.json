@@ -1242,7 +1242,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "619980ced8d17c05",
@@ -1328,7 +1329,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5cb25132f7a0dde",
+  "active": "43268a854084f453",
   "lastOpenFiles": [
     "Essay 1.md",
     "Essay 1 1.md",
