@@ -1113,7 +1113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essay.md",
+                "file": "Writings/Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -1149,7 +1149,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essay 1.md",
+                "file": "Writings/Essay 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -1185,14 +1185,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essay 1 1.md",
+                "file": "Fitness Reports/2023 - week 12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfdd8ccdfaef3aa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fitness Reports/2023 - week 13.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 99
+        "currentTab": 100
       }
     ],
     "direction": "vertical"
@@ -1242,8 +1254,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "619980ced8d17c05",
@@ -1259,7 +1270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essay 1 1.md",
+                "file": "Fitness Reports/2023 - week 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1276,7 +1287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essay 1 1.md",
+                "file": "Fitness Reports/2023 - week 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1299,7 +1310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essay 1 1.md"
+                "file": "Fitness Reports/2023 - week 13.md"
               }
             }
           },
@@ -1329,18 +1340,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43268a854084f453",
+  "active": "bfdd8ccdfaef3aa9",
   "lastOpenFiles": [
-    "Essay 1.md",
-    "Essay 1 1.md",
-    "Essay.md",
+    "Fitness Reports/2023 - week 12.md",
+    "Fitness Reports/2023 - week 13.md",
+    "Writings/Essay 1 1.md",
+    "Writings",
+    "Writings/Essay 1.md",
+    "Writings/Essay.md",
     "Series/My Hero Academia/s04e80.md",
     "Series/My Hero Academia/s04e78-79.md",
     "Cage Reports/29th March.md",
     "Cage Reports/15th March.md",
     "Cage Reports/14th March.md",
     "Series/My Hero Academia/s04e77.md",
-    "Fitness Reports/2023 - week 12.md",
     "Fitness Reports/2023 - week 11.md",
     "Fitness Reports/2023 - week 10.md",
     "Series/My Hero Academia/s04e76.md",
@@ -1356,7 +1369,6 @@
     "Series/My Hero Academia/s04e64.md",
     "Series/My Hero Academia/s03e63.md",
     "Series/My Hero Academia/s01e03-04.md",
-    "Diary/2023-03-15.md",
     "Cage Reports"
   ]
 }
