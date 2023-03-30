@@ -1,0 +1,1 @@
+When I watch you interact with others in the chaster server I'm proud to be your lockee
