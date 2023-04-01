@@ -1209,7 +1209,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slaps.md",
+                "file": "Series/My Hero Academia/s04e81.md",
                 "mode": "source",
                 "source": false
               }
@@ -1282,7 +1282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slaps.md",
+                "file": "Series/My Hero Academia/s04e81.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1299,7 +1299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slaps.md",
+                "file": "Series/My Hero Academia/s04e81.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1322,7 +1322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slaps.md"
+                "file": "Series/My Hero Academia/s04e81.md"
               }
             }
           },
@@ -1354,6 +1354,7 @@
   },
   "active": "f936c6d597ecfdff",
   "lastOpenFiles": [
+    "Slaps.md",
     "Series/My Hero Academia/s04e81.md",
     "Series/My Hero Academia/s04e75.md",
     "Series/My Hero Academia/s04e76.md",
@@ -1380,7 +1381,6 @@
     "Series/My Hero Academia/s04e70.md",
     "Series/My Hero Academia/s04e65-66.md",
     "Series/My Hero Academia/s04e64.md",
-    "Series/My Hero Academia/s03e63.md",
     "Cage Reports"
   ]
 }
