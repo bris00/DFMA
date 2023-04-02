@@ -1221,14 +1221,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fitness Reports/2023 - week 13.md",
+                "file": "Series/My Hero Academia/s04e82.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3947bb16eef90f34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s04e83.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 102
+        "currentTab": 103
       }
     ],
     "direction": "vertical"
@@ -1294,7 +1306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fitness Reports/2023 - week 13.md",
+                "file": "Series/My Hero Academia/s04e83.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1311,7 +1323,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fitness Reports/2023 - week 13.md",
+                "file": "Series/My Hero Academia/s04e83.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1334,7 +1346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fitness Reports/2023 - week 13.md"
+                "file": "Series/My Hero Academia/s04e83.md"
               }
             }
           },
@@ -1364,16 +1376,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fe97dc9215d95fb",
+  "active": "3947bb16eef90f34",
   "lastOpenFiles": [
     "Series/My Hero Academia/s04e82.md",
+    "Series/My Hero Academia/s04e83.md",
+    "Fitness Reports/2023 - week 13.md",
     "Series/My Hero Academia/s04e81.md",
     "Slaps.md",
     "Series/My Hero Academia/s04e75.md",
     "Series/My Hero Academia/s04e76.md",
     "Series/My Hero Academia/s04e77.md",
     "Series/My Hero Academia/s04e80.md",
-    "Fitness Reports/2023 - week 13.md",
     "Fitness Reports/2023 - week 12.md",
     "Writings/Essay 1 1.md",
     "Writings",
@@ -1392,7 +1405,6 @@
     "Series/My Hero Academia/s04e67.md",
     "Series/My Hero Academia/s04e68-69.md",
     "Series/My Hero Academia/s04e70.md",
-    "Series/My Hero Academia/s04e65-66.md",
     "Cage Reports"
   ]
 }
