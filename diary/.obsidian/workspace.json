@@ -1298,9 +1298,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b964e23f77c5400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo - WoF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 108
+        "currentTab": 109
       }
     ],
     "direction": "vertical"
@@ -1366,7 +1378,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s04e88.md",
+                "file": "Todo - WoF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1383,7 +1395,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s04e88.md",
+                "file": "Todo - WoF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1406,7 +1418,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s04e88.md"
+                "file": "Todo - WoF.md"
               }
             }
           },
@@ -1436,10 +1448,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33341ac6fe75e200",
+  "active": "2b964e23f77c5400",
   "lastOpenFiles": [
-    "Series/My Hero Academia/s04e86-87.md",
     "Series/My Hero Academia/s04e88.md",
+    "Todo - WoF.md",
+    "Series/My Hero Academia/s04e86-87.md",
     "Series/My Hero Academia/s04e85.md",
     "Fitness Reports/2023 - week 14.md",
     "Fitness Reports/2023 - week 13.md",
@@ -1464,7 +1477,6 @@
     "Fitness Reports/2023 - week 11.md",
     "Fitness Reports/2023 - week 10.md",
     "Series/My Hero Academia/s04e74.md",
-    "Series/My Hero Academia/s04e73.md",
     "Cage Reports"
   ]
 }
