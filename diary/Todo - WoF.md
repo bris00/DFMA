@@ -1,5 +1,5 @@
 [[2023-04-04]]
-- Brainwashing 
+- ✅ Brainwashing 
 
 [[2023-04-05]]
 * Hands Free Training
