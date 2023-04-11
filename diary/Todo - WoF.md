@@ -2,7 +2,7 @@
 - ✅ Brainwashing 
 
 [[2023-04-05]]
-* Hands Free Training
+* ✅ Hands Free Training
 
 [[2023-04-06]]
 * Frustrated hero
