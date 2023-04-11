@@ -1305,7 +1305,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Tasks/Hands Free Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -1378,7 +1378,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Tasks/Hands Free Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1395,7 +1395,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Tasks/Hands Free Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1418,7 +1418,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo - WoF.md"
+                "file": "Tasks/Hands Free Training.md"
               }
             }
           },
@@ -1450,10 +1450,10 @@
   },
   "active": "7b508875b281acec",
   "lastOpenFiles": [
+    "Todo - WoF.md",
     "Task ideas.md",
     "Series/My Hero Academia/s04e89.md",
     "Series/My Hero Academia/s04e88.md",
-    "Todo - WoF.md",
     "2023-03-06.md",
     "Series/My Hero Academia/s04e86-87.md",
     "Series/My Hero Academia/s04e85.md",
