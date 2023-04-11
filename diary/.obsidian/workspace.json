@@ -1305,7 +1305,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Series/My Hero Academia/s04e89.md",
+                "file": "Todo - WoF.md",
                 "mode": "source",
                 "source": false
               }
@@ -1378,7 +1378,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s04e89.md",
+                "file": "Todo - WoF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1395,7 +1395,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s04e89.md",
+                "file": "Todo - WoF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1418,7 +1418,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s04e89.md"
+                "file": "Todo - WoF.md"
               }
             }
           },
@@ -1450,8 +1450,9 @@
   },
   "active": "7b508875b281acec",
   "lastOpenFiles": [
-    "Series/My Hero Academia/s04e88.md",
+    "Task ideas.md",
     "Series/My Hero Academia/s04e89.md",
+    "Series/My Hero Academia/s04e88.md",
     "Todo - WoF.md",
     "2023-03-06.md",
     "Series/My Hero Academia/s04e86-87.md",
@@ -1476,7 +1477,6 @@
     "Cage Reports/29th March.md",
     "Cage Reports/15th March.md",
     "Cage Reports/14th March.md",
-    "Fitness Reports/2023 - week 11.md",
     "Cage Reports"
   ]
 }
