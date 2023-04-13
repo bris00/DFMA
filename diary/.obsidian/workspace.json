@@ -1334,9 +1334,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d5d6f7875a90a19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lock or bot ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 111
+        "currentTab": 112
       }
     ],
     "direction": "vertical"
@@ -1402,7 +1414,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Lock or bot ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1419,7 +1431,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Lock or bot ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1442,7 +1454,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo - WoF.md"
+                "file": "Lock or bot ideas.md"
               }
             }
           },
@@ -1472,8 +1484,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "151a650ba74eec6d",
+  "active": "9d5d6f7875a90a19",
   "lastOpenFiles": [
+    "Todo - WoF.md",
+    "Lock or bot ideas.md",
     "Task ideas.md",
     "Fitness Reports/2023 - week 15.md",
     "Fitness Reports/2023 - week 14.md",
@@ -1486,7 +1500,6 @@
     "Series/My Hero Academia/s03e61-62.md",
     "Series/My Hero Academia/s04e89.md",
     "Series/My Hero Academia/s03e55-56.md",
-    "Todo - WoF.md",
     "Tasks/Hands Free Training.md",
     "Series/My Hero Academia/s04e88.md",
     "2023-03-06.md",
@@ -1499,7 +1512,6 @@
     "Series/My Hero Academia/s04e76.md",
     "Series/My Hero Academia/s04e77.md",
     "Series/My Hero Academia/s04e82.md",
-    "Series/My Hero Academia/s04e83.md",
     "Writings",
     "Cage Reports"
   ]
