@@ -1305,14 +1305,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Series/My Hero Academia/s04e89.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2a6916c115148bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s04e-ova1-2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 109
+        "currentTab": 110
       }
     ],
     "direction": "vertical"
@@ -1378,7 +1390,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Series/My Hero Academia/s04e-ova1-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1395,7 +1407,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Series/My Hero Academia/s04e-ova1-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1418,7 +1430,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo - WoF.md"
+                "file": "Series/My Hero Academia/s04e-ova1-2.md"
               }
             }
           },
@@ -1448,12 +1460,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b508875b281acec",
+  "active": "a2a6916c115148bf",
   "lastOpenFiles": [
+    "Series/My Hero Academia/s04e89.md",
+    "Series/My Hero Academia/s04e-ova1-2.md",
+    "Todo - WoF.md",
     "Task ideas.md",
     "Tasks/Hands Free Training.md",
-    "Todo - WoF.md",
-    "Series/My Hero Academia/s04e89.md",
     "Series/My Hero Academia/s04e88.md",
     "2023-03-06.md",
     "Series/My Hero Academia/s04e86-87.md",
@@ -1476,7 +1489,6 @@
     "Writings/Essay 1.md",
     "Writings/Essay.md",
     "Cage Reports/29th March.md",
-    "Cage Reports/15th March.md",
     "Cage Reports"
   ]
 }
