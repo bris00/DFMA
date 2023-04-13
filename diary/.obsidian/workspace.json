@@ -1317,7 +1317,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Series/My Hero Academia/s04e-ova1-2.md",
+                "file": "Series/My Hero Academia/s04e99ova1-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -1353,7 +1353,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Yao",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -1390,7 +1390,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s04e-ova1-2.md",
+                "file": "Series/My Hero Academia/s04e99ova1-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1407,7 +1407,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s04e-ova1-2.md",
+                "file": "Series/My Hero Academia/s04e99ova1-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1430,7 +1430,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s04e-ova1-2.md"
+                "file": "Series/My Hero Academia/s04e99ova1-2.md"
               }
             }
           },
@@ -1460,10 +1460,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2a6916c115148bf",
+  "active": "43268a854084f453",
   "lastOpenFiles": [
+    "Series/My Hero Academia/s04e64.md",
+    "Series/My Hero Academia/s03e61-62.md",
+    "Series/My Hero Academia/s04e99ova1-2.md",
     "Series/My Hero Academia/s04e89.md",
-    "Series/My Hero Academia/s04e-ova1-2.md",
+    "Series/My Hero Academia/s03e55-56.md",
     "Todo - WoF.md",
     "Task ideas.md",
     "Tasks/Hands Free Training.md",
@@ -1486,9 +1489,6 @@
     "Fitness Reports/2023 - week 12.md",
     "Writings/Essay 1 1.md",
     "Writings",
-    "Writings/Essay 1.md",
-    "Writings/Essay.md",
-    "Cage Reports/29th March.md",
     "Cage Reports"
   ]
 }

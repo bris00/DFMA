@@ -1,1 +1,0 @@
-The class is tasked with performing a training rescue missing, but what they don't know is that Eraser Head has constructed the scenario so that they aren't supposed to save the rescue doll they are told they should save, but rather they have to save themselves. Eraser Head has arranged for 
