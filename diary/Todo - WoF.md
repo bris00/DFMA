@@ -6,7 +6,7 @@
 
 [[2023-04-06]]
 * Frustrated hero
-* Slap yourself 10 times
+* ✅ Slap yourself 10 times
 * Write 100 words thanking me for denying you
 * ❓ Edge 5 times (Given to jhey)
 * Write 100 words thanking me for denying you
