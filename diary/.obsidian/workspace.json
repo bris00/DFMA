@@ -1341,18 +1341,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Series/My Hero Academia/s05e89.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b78106ec6cf02ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Todo - WoF.md",
                 "mode": "source",
                 "source": false
@@ -1360,7 +1348,7 @@
             }
           }
         ],
-        "currentTab": 113
+        "currentTab": 112
       }
     ],
     "direction": "vertical"
@@ -1496,14 +1484,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b78106ec6cf02ee",
+  "active": "9d5d6f7875a90a19",
   "lastOpenFiles": [
+    "2023-04-04.md",
+    "Todo - WoF.md",
     "Series/My Hero Academia/s05e90-91.md",
     "Series/My Hero Academia/s05e89.md",
     "Series/My Hero Academia/s04e88.md",
     "Series/My Hero Academia/s04e88.5-ova1-2.md",
     "Shopping list.md",
-    "Todo - WoF.md",
     "Lock or bot ideas.md",
     "Task ideas.md",
     "Fitness Reports/2023 - week 15.md",
@@ -1523,7 +1512,6 @@
     "Series/My Hero Academia/s04e84.md",
     "Series/My Hero Academia/s04e80.md",
     "Series/My Hero Academia/s04e78-79.md",
-    "Series/My Hero Academia/s04e76.md",
     "Writings",
     "Cage Reports"
   ]

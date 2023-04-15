@@ -1,3 +1,5 @@
+Spiked cage counter: 4
+
 [[2023-04-04]]
 - ✅ Brainwashing 
 
@@ -23,3 +25,5 @@
 [[2023-04-09]]
 * ✅ Brainwashing
 * Brainwashing
+
+
