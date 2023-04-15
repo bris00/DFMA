@@ -1341,7 +1341,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Shopping list.md",
                 "mode": "source",
                 "source": false
               }
@@ -1414,7 +1414,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Shopping list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1431,7 +1431,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Shopping list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1454,7 +1454,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo - WoF.md"
+                "file": "Shopping list.md"
               }
             }
           },
@@ -1486,8 +1486,8 @@
   },
   "active": "9d5d6f7875a90a19",
   "lastOpenFiles": [
-    "Lock or bot ideas.md",
     "Todo - WoF.md",
+    "Lock or bot ideas.md",
     "Task ideas.md",
     "Fitness Reports/2023 - week 15.md",
     "Fitness Reports/2023 - week 14.md",
