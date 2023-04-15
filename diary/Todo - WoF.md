@@ -15,7 +15,7 @@
 
 [[2023-04-07]]
 * ✅ Slap yourself 10 times
-* Watch porn for 20 minutes and then tell me why you shouldn't be allowed to cum
+* ✅ Watch porn for 20 minutes and then tell me why you shouldn't be allowed to cum
 
 [[2023-04-08]]
 * ❓Edge 5 times (Given to jhey)
