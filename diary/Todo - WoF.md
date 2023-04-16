@@ -7,7 +7,7 @@ Spiked cage counter: 4
 * ✅ Hands Free Training
 
 [[2023-04-06]]
-* Frustrated hero
+* ✅ Frustrated hero
 * ✅ Slap yourself 10 times
 * ✅ Write 100 words thanking me for denying you
 * ❓ Edge 5 times (Given to jhey)
