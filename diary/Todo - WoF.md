@@ -11,7 +11,7 @@ Spiked cage counter: 4
 * ✅ Slap yourself 10 times
 * ✅ Write 100 words thanking me for denying you
 * ❓ Edge 5 times (Given to jhey)
-* Write 100 words thanking me for denying you
+* ✅ Write 100 words thanking me for denying you
 * Write 100 words thanking me for denying you
 * Frustrated hero
 
