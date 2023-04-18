@@ -26,3 +26,4 @@ Spiked cage counter: 4
 * ✅ Brainwashing
 * Brainwashing
 
+As far as I know you're an innocent one
