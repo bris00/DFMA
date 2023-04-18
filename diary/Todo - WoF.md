@@ -13,7 +13,7 @@ Spiked cage counter: 4
 * ❓ Edge 5 times (Given to jhey)
 * ✅ Write 100 words thanking me for denying you
 * Write 100 words thanking me for denying you
-* Frustrated hero
+* ✅ Frustrated hero
 
 [[2023-04-07]]
 * ✅ Slap yourself 10 times
@@ -25,5 +25,3 @@ Spiked cage counter: 4
 [[2023-04-09]]
 * ✅ Brainwashing
 * Brainwashing
-
-As far as I know you're an innocent one
