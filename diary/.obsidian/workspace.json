@@ -1370,9 +1370,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d56bb7206a3941e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minigame idea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 114
+        "currentTab": 115
       }
     ],
     "direction": "vertical"
@@ -1438,7 +1450,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Minigame idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1455,7 +1467,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Minigame idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1478,7 +1490,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo - WoF.md"
+                "file": "Minigame idea.md"
               }
             }
           },
@@ -1508,11 +1520,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c3dc2680d4b85ad",
+  "active": "d56bb7206a3941e8",
   "lastOpenFiles": [
+    "Todo - WoF.md",
+    "Minigame idea.md",
     "Series/My Hero Academia/s05e94-95.md",
     "Series/My Hero Academia/s05e92-93.md",
-    "Todo - WoF.md",
     "Series/My Hero Academia/s05e90-91.md",
     "Fitness Reports/2023 - week 15.md",
     "Fitness Reports/2023 - week 14.md",
@@ -1535,7 +1548,6 @@
     "Series/My Hero Academia/s04e86-87.md",
     "Series/My Hero Academia/s04e85.md",
     "Fitness Reports/2023 - week 13.md",
-    "Series/My Hero Academia/s04e84.md",
     "Writings",
     "Cage Reports"
   ]
