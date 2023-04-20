@@ -1377,7 +1377,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minigame idea.md",
+                "file": "Todo - WoF.md",
                 "mode": "source",
                 "source": false
               }
@@ -1450,7 +1450,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minigame idea.md",
+                "file": "Todo - WoF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1467,7 +1467,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minigame idea.md",
+                "file": "Todo - WoF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1490,7 +1490,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minigame idea.md"
+                "file": "Todo - WoF.md"
               }
             }
           },
@@ -1522,8 +1522,8 @@
   },
   "active": "d56bb7206a3941e8",
   "lastOpenFiles": [
-    "Todo - WoF.md",
     "Minigame idea.md",
+    "Todo - WoF.md",
     "Series/My Hero Academia/s05e94-95.md",
     "Series/My Hero Academia/s05e92-93.md",
     "Series/My Hero Academia/s05e90-91.md",
