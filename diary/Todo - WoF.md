@@ -24,4 +24,4 @@ Spiked cage counter: 5
 
 [[2023-04-09]]
 * ✅ Brainwashing
-* Brainwashing
+* ✅ Brainwashing
