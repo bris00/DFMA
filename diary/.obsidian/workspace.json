@@ -1389,14 +1389,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Series/My Hero Academia/s05e96.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdd692d459f9dd1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s05e97.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 116
+        "currentTab": 117
       }
     ],
     "direction": "vertical"
@@ -1462,7 +1474,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Series/My Hero Academia/s05e97.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1479,7 +1491,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Series/My Hero Academia/s05e97.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1502,7 +1514,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo - WoF.md"
+                "file": "Series/My Hero Academia/s05e97.md"
               }
             }
           },
@@ -1532,9 +1544,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "254b77ab6ba28ec8",
+  "active": "fdd692d459f9dd1b",
   "lastOpenFiles": [
     "Series/My Hero Academia/s05e96.md",
+    "Series/My Hero Academia/s05e97.md",
     "Todo - WoF.md",
     "Minigame idea.md",
     "Series/My Hero Academia/s05e94-95.md",
@@ -1559,7 +1572,6 @@
     "Tasks/Hands Free Training.md",
     "2023-03-06.md",
     "Series/My Hero Academia/s04e86-87.md",
-    "Series/My Hero Academia/s04e85.md",
     "Writings",
     "Cage Reports"
   ]
