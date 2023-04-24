@@ -1,1 +1,1 @@
-Spiked cage counter: 7
+Spiked cage counter: 8
