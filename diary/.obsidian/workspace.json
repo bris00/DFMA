@@ -1406,9 +1406,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9cd28de1b361efce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s05e98-99.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 117
+        "currentTab": 118
       }
     ],
     "direction": "vertical"
@@ -1474,7 +1486,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Series/My Hero Academia/s05e98-99.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1491,7 +1503,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Series/My Hero Academia/s05e98-99.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1514,7 +1526,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo - WoF.md"
+                "file": "Series/My Hero Academia/s05e98-99.md"
               }
             }
           },
@@ -1544,11 +1556,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fdd692d459f9dd1b",
+  "active": "9cd28de1b361efce",
   "lastOpenFiles": [
+    "Todo - WoF.md",
+    "Series/My Hero Academia/s05e98-99.md",
     "Series/My Hero Academia/s05e97.md",
     "Series/My Hero Academia/s05e96.md",
-    "Todo - WoF.md",
     "Minigame idea.md",
     "Series/My Hero Academia/s05e94-95.md",
     "Series/My Hero Academia/s05e92-93.md",
@@ -1571,7 +1584,6 @@
     "Series/My Hero Academia/s03e55-56.md",
     "Tasks/Hands Free Training.md",
     "2023-03-06.md",
-    "Series/My Hero Academia/s04e86-87.md",
     "Writings",
     "Cage Reports"
   ]
