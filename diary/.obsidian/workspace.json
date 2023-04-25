@@ -1418,9 +1418,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f389cc6dc4652be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s05e100.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 118
+        "currentTab": 119
       }
     ],
     "direction": "vertical"
@@ -1486,7 +1498,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Series/My Hero Academia/s05e100.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1503,7 +1515,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo - WoF.md",
+                "file": "Series/My Hero Academia/s05e100.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1526,7 +1538,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo - WoF.md"
+                "file": "Series/My Hero Academia/s05e100.md"
               }
             }
           },
@@ -1556,10 +1568,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cd28de1b361efce",
+  "active": "7f389cc6dc4652be",
   "lastOpenFiles": [
-    "Series/My Hero Academia/s05e98-99.md",
     "Todo - WoF.md",
+    "Series/My Hero Academia/s05e100.md",
+    "Series/My Hero Academia/s05e98-99.md",
     "Series/My Hero Academia/s05e97.md",
     "Series/My Hero Academia/s05e96.md",
     "Minigame idea.md",
@@ -1583,7 +1596,6 @@
     "Series/My Hero Academia/s03e61-62.md",
     "Series/My Hero Academia/s03e55-56.md",
     "Tasks/Hands Free Training.md",
-    "2023-03-06.md",
     "Writings",
     "Cage Reports"
   ]
