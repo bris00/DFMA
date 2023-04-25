@@ -1413,7 +1413,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Series/My Hero Academia/s05e98-99.md",
+                "file": "Todo - WoF.md",
                 "mode": "source",
                 "source": false
               }
@@ -1486,7 +1486,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s05e98-99.md",
+                "file": "Todo - WoF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1503,7 +1503,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s05e98-99.md",
+                "file": "Todo - WoF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1526,7 +1526,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s05e98-99.md"
+                "file": "Todo - WoF.md"
               }
             }
           },
@@ -1558,8 +1558,8 @@
   },
   "active": "9cd28de1b361efce",
   "lastOpenFiles": [
-    "Todo - WoF.md",
     "Series/My Hero Academia/s05e98-99.md",
+    "Todo - WoF.md",
     "Series/My Hero Academia/s05e97.md",
     "Series/My Hero Academia/s05e96.md",
     "Minigame idea.md",
