@@ -1,4 +1,4 @@
-Spiked cage counter: 8
+Spiked cage counter: 10
 
 * Frustrated Hero
 * Slaps
