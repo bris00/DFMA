@@ -1454,9 +1454,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe1bb03902c71fc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series/My Hero Academia/s05e103.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 121
+        "currentTab": 122
       }
     ],
     "direction": "vertical"
@@ -1522,7 +1534,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s05e102.md",
+                "file": "Series/My Hero Academia/s05e103.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1539,7 +1551,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s05e102.md",
+                "file": "Series/My Hero Academia/s05e103.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1562,7 +1574,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s05e102.md"
+                "file": "Series/My Hero Academia/s05e103.md"
               }
             }
           },
@@ -1592,10 +1604,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b91664bc4fd964e2",
+  "active": "fe1bb03902c71fc8",
   "lastOpenFiles": [
-    "Todo - WoF.md",
     "Series/My Hero Academia/s05e102.md",
+    "Series/My Hero Academia/s05e103.md",
+    "Todo - WoF.md",
     "Series/My Hero Academia/s05e101.md",
     "Series/My Hero Academia/s05e100.md",
     "Series/My Hero Academia/s05e98-99.md",
@@ -1619,7 +1632,6 @@
     "Fitness Reports/2023 - week 06.md",
     "Series/My Hero Academia/s04e81.md",
     "Series/My Hero Academia/s04e64.md",
-    "Series/My Hero Academia/s03e61-62.md",
     "Writings",
     "Cage Reports"
   ]
