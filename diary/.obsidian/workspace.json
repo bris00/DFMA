@@ -1473,14 +1473,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Series/My Hero Academia/s05e104.md",
+                "file": "Fitness Reports/2023 - week 15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7978c0d0a286948e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fitness Reports/2023 - week 18.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 123
+        "currentTab": 124
       }
     ],
     "direction": "vertical"
@@ -1546,7 +1558,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s05e104.md",
+                "file": "Fitness Reports/2023 - week 18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1563,7 +1575,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s05e104.md",
+                "file": "Fitness Reports/2023 - week 18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1586,7 +1598,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s05e104.md"
+                "file": "Fitness Reports/2023 - week 18.md"
               }
             }
           },
@@ -1616,10 +1628,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e575ae4a7f83b9e",
+  "active": "7978c0d0a286948e",
   "lastOpenFiles": [
-    "Series/My Hero Academia/s05e103.md",
+    "Fitness Reports/2023 - week 15.md",
+    "Fitness Reports/2023 - week 18.md",
     "Series/My Hero Academia/s05e104.md",
+    "Series/My Hero Academia/s05e103.md",
     "Series/My Hero Academia/s05e102.md",
     "Todo - WoF.md",
     "Series/My Hero Academia/s05e101.md",
@@ -1631,7 +1645,6 @@
     "Series/My Hero Academia/s05e94-95.md",
     "Series/My Hero Academia/s05e92-93.md",
     "Series/My Hero Academia/s05e90-91.md",
-    "Fitness Reports/2023 - week 15.md",
     "Fitness Reports/2023 - week 14.md",
     "2023-04-04.md",
     "Series/My Hero Academia/s05e89.md",
@@ -1643,7 +1656,6 @@
     "Fitness Reports/2023 - week 10.md",
     "Series/My Hero Academia/s02e21.md",
     "Fitness Reports/2023 - week 06.md",
-    "Series/My Hero Academia/s04e81.md",
     "Writings",
     "Cage Reports"
   ]
