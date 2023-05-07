@@ -25,3 +25,4 @@ Eternal sunshine of the spotless mind
 Sprited Away
 The Princess Bride
 Mr. Robot
+Gangs of NY
