@@ -1538,9 +1538,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d6a8ef08bf94eda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Movies&series backlog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 128
+        "currentTab": 129
       }
     ],
     "direction": "vertical"
@@ -1585,6 +1597,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "aff9e3d45566670d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -1606,7 +1626,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s05e108.md",
+                "file": "Movies&series backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1623,7 +1643,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s05e108.md",
+                "file": "Movies&series backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1646,7 +1666,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s05e108.md"
+                "file": "Movies&series backlog.md"
               }
             }
           },
@@ -1676,12 +1696,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2829ab81945dbdcb",
+  "active": "8d6a8ef08bf94eda",
   "lastOpenFiles": [
+    "Task ideas.md",
+    "Todo - WoF.md",
     "Series/My Hero Academia/s05e106-107.md",
     "Series/My Hero Academia/s05e108.md",
     "Movies&series backlog.md",
-    "Todo - WoF.md",
     "Series/My Hero Academia/s05e105.md",
     "Series/My Hero Academia/s05e104.md",
     "Fitness Reports/2023 - week 18.md",
@@ -1703,7 +1724,6 @@
     "Series/My Hero Academia/s04e88.md",
     "Series/My Hero Academia/s04e88.5-ova1-2.md",
     "Shopping list.md",
-    "Lock or bot ideas.md",
     "Writings",
     "Cage Reports"
   ]
