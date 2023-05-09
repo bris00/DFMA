@@ -1,6 +1,6 @@
 ### Counts
-* Miss Ana asks me: 21
-* I ask Miss Ana: 20
+* Miss Ana asks me: 18
+* I ask Miss Ana: 18
 
 ### My questions:
 
@@ -15,3 +15,5 @@
 * What is something sexual you've always wanted to try but haven't had the opportunity to try yet?✓ 
 * What is the dirtiest fantasy you've had about someone close to you (e.g. a friend), but with whom you've not been intimately or romantically involved?✓
 * How does your favourite pleasure-giving sex toy compare to other toys you have?
+* What's been your favourite part of locking me?
+* What is one (or more) thing that you wish I did more often?
