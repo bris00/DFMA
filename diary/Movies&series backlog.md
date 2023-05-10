@@ -31,33 +31,33 @@ Anohana
 
 TV series:
 
--   Gravity Falls
--   Rise of Empires: Ottoman
--   Spooks
--   The Boys
--   The Night Manager
--   The Mandalorian
--   Schitt's Creek
--   Tut
--   Halt and Catch Fire
--   Age of Samurai
--   Avatar: The Last Airbender
--   Better Call Saul
--   Seinfeld
--   The Northman
--   Mr. Robot
--   Undone
--   Anohana
+-  Gravity Falls
+-  Rise of Empires: Ottoman
+-  Spooks
+-  The Boys
+-  The Night Manager
+-  The Mandalorian
+-  Schitt's Creek
+-  Tut
+-  Halt and Catch Fire
+-  Age of Samurai
+-  Avatar: The Last Airbender
+-  Better Call Saul
+-  Seinfeld
+-  The Northman
+-  Mr. Robot
+-  Undone
+-  Anohana
+-  Breaking Bad
+-  Wolfhall
+-  Manhunt: Unabomber
 
 Movies:
 
 -   Everything Everywhere
 -   The Banshees of Inisherin
--   Breaking Bad
 -   WALL-E
--   Wolfhall
 -   John Wick
--   Manhunt: Unabomber
 -   Top Gun: Maverick
 -   2001: A Space Odyssey
 -   Eternal Sunshine of the Spotless Mind
