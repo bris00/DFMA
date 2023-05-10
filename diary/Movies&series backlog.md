@@ -31,26 +31,26 @@ Anohana
 
 TV series:
 
--  Gravity Falls
--  Rise of Empires: Ottoman
--  Spooks
--  The Boys
--  The Night Manager
--  The Mandalorian
--  Schitt's Creek
--  Tut
--  Halt and Catch Fire
--  Age of Samurai
--  Avatar: The Last Airbender
--  Better Call Saul
--  Seinfeld
--  The Northman
--  Mr. Robot
--  Undone
--  Anohana
--  Breaking Bad
--  Wolfhall
--  Manhunt: Unabomber
+1. Mr. Robot
+3. The Mandalorian
+4. Better Call Saul
+5. Gravity Falls
+6. Avatar: The Last Airbender
+7. The Northman
+8. The Boys
+9. Wolfhall
+10. The Night Manager
+11. Halt and Catch Fire
+12. Undone
+13. Schitt's Creek
+14. Anohana
+15. Seinfeld
+16.  Manhunt: Unabomber
+17.  Spooks
+18. Breaking Bad
+19.  Tut
+20.  Age of Samurai
+21.  Rise of Empires: Ottoman
 
 Movies:
 
