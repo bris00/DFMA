@@ -17,6 +17,8 @@
 * How does your favourite pleasure-giving sex toy compare to other toys you have?
 * What's been your favourite part of locking me?
 * What is one (or more) thing that you wish I did more often?
-* If you could set a goal for me, what would it be if any?
+* If you could set a goal for me, what would it be, if any?
 * What is the most daring sexual experience you've had?
+* When and what was the best orgasm you've had in the time that I've been locked by you like?
+* What is your favourite book?
 * 
