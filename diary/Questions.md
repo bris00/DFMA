@@ -17,3 +17,4 @@
 * How does your favourite pleasure-giving sex toy compare to other toys you have?
 * What's been your favourite part of locking me?
 * What is one (or more) thing that you wish I did more often?
+* If you could set a goal o
