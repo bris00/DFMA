@@ -1,6 +1,6 @@
 ### Counts
 * Miss Ana asks me: 18
-* I ask Miss Ana: 18
+* I ask Miss Ana: 12
 
 ### My questions:
 
@@ -19,6 +19,7 @@
 * What is one (or more) thing that you wish I did more often?
 * If you could set a goal for me, what would it be, if any?
 * What is the most daring sexual experience you've had?
-* When and what was the best orgasm you've had in the time that I've been locked by you like?
+* When and what was the best orgasm you've had in the time that I've been locked by you, like?
 * What is your favourite book?
-* 
+* Where did you have your last orgasm?
+* How did you find out you liked being a Domme?
