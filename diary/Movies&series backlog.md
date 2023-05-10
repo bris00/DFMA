@@ -54,13 +54,13 @@ TV series:
 
 Movies:
 
--   Everything Everywhere
--   The Banshees of Inisherin
--   WALL-E
--   John Wick
--   Top Gun: Maverick
--   2001: A Space Odyssey
--   Eternal Sunshine of the Spotless Mind
--   Spirited Away
--   The Princess Bride
--   Gangs of New York
+1. Eternal Sunshine of the Spotless Mind
+2. Spirited Away
+3. The Banshees of Inisherin
+4. Everything Everywhere
+5. WALL-E
+6. 2001: A Space Odyssey
+7. The Princess Bride
+8. Gangs of New York
+9. John Wick
+10. Top Gun: Maverick
