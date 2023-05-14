@@ -1,0 +1,1 @@
+The class is having a break from fighting crime to play some baseball together with some other heroes. There is not much to describe from this episode, just some wholesome fun while 
