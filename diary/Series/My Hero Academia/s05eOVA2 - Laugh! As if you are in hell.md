@@ -1,1 +1,1 @@
-This episode follows the 
+This episode follows the 3 musketeers Deku, Todoroki and Baku on their fight against an artist during their internship at Endeavours. The artist has a quirk that makes him able to make anyone drop in a 
