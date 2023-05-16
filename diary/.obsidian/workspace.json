@@ -1545,7 +1545,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Series/My Hero Academia/s05eOVA2 - Laugh! As if you are in hell.md",
+                "file": "Series/My Hero Academia/s06e114.md",
                 "mode": "source",
                 "source": false
               }
@@ -1626,7 +1626,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s05eOVA2 - Laugh! As if you are in hell.md",
+                "file": "Series/My Hero Academia/s06e114.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1643,7 +1643,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s05eOVA2 - Laugh! As if you are in hell.md",
+                "file": "Series/My Hero Academia/s06e114.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1666,7 +1666,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s05eOVA2 - Laugh! As if you are in hell.md"
+                "file": "Series/My Hero Academia/s06e114.md"
               }
             }
           },
@@ -1698,9 +1698,10 @@
   },
   "active": "8d6a8ef08bf94eda",
   "lastOpenFiles": [
-    "Series/My Hero Academia/s05eOVA1 - HLB.md",
-    "Series/My Hero Academia/s05eOVA2 - Laugh! As if you are in hell.md",
     "Series/My Hero Academia/s05e113.md",
+    "Series/My Hero Academia/s06e114.md",
+    "Series/My Hero Academia/s05eOVA2 - Laugh! As if you are in hell.md",
+    "Series/My Hero Academia/s05eOVA1 - HLB.md",
     "Series/My Hero Academia/s05e112.md",
     "Todo - WoF.md",
     "Task ideas.md",
@@ -1723,7 +1724,6 @@
     "Series/My Hero Academia/s05e97.md",
     "Series/My Hero Academia/s05e96.md",
     "Minigame idea.md",
-    "Series/My Hero Academia/s05e94-95.md",
     "Writings",
     "Cage Reports"
   ]
