@@ -1545,7 +1545,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Series/My Hero Academia/s06e114.md",
+                "file": "Series/My Hero Academia/s06e115.md",
                 "mode": "source",
                 "source": false
               }
@@ -1626,7 +1626,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series/My Hero Academia/s06e114.md",
+                "file": "Series/My Hero Academia/s06e115.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1643,7 +1643,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series/My Hero Academia/s06e114.md",
+                "file": "Series/My Hero Academia/s06e115.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1666,7 +1666,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series/My Hero Academia/s06e114.md"
+                "file": "Series/My Hero Academia/s06e115.md"
               }
             }
           },
@@ -1698,8 +1698,9 @@
   },
   "active": "8d6a8ef08bf94eda",
   "lastOpenFiles": [
-    "Series/My Hero Academia/s05e113.md",
     "Series/My Hero Academia/s06e114.md",
+    "Series/My Hero Academia/s06e115.md",
+    "Series/My Hero Academia/s05e113.md",
     "Series/My Hero Academia/s05e112.md",
     "Series/My Hero Academia/s05eOVA2 - Laugh! As if you are in hell.md",
     "Series/My Hero Academia/s05eOVA1 - HLB.md",
@@ -1723,7 +1724,6 @@
     "Series/My Hero Academia/s05e98-99.md",
     "Series/My Hero Academia/s05e97.md",
     "Series/My Hero Academia/s05e96.md",
-    "Minigame idea.md",
     "Writings",
     "Cage Reports"
   ]
