@@ -1550,9 +1550,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9fab5fd9b363a60c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 129
+        "currentTab": 130
       }
     ],
     "direction": "vertical"
@@ -1696,7 +1706,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d6a8ef08bf94eda",
+  "active": "9fab5fd9b363a60c",
   "lastOpenFiles": [
     "Series/My Hero Academia/s05e113.md",
     "Series/My Hero Academia/s06e115.md",
