@@ -1,6 +1,7 @@
 Spiked cage counter: 10
 
-* Frustrated Hero
-* Slaps
-* Frustrated Hero
-* Hands Free Training
+Shave & shower
+Have orgasm
+Make ring
+Cut edging footage
+Do edging punishment
