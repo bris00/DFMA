@@ -1,8 +1,8 @@
 Spiked cage counter: 10
 
 Find portal 2 map
-Make ring
 Cut edging footage
+Make ring
 Do edging punishment
 
 
